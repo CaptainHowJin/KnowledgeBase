@@ -1,0 +1,357 @@
+{
+  "main": {
+    "id": "7da6e992dc9190b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc4d533666db248b",
+        "type": "tabs",
+        "dimension": 70.04773269689738,
+        "children": [
+          {
+            "id": "c39e477fd7b0c6c1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+                "page": 5,
+                "left": 209,
+                "top": 26,
+                "zoom": 1.77
+              },
+              "icon": "lucide-file-text",
+              "title": "Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues"
+            }
+          },
+          {
+            "id": "b9f087e527672729",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+                "page": 4,
+                "left": -130,
+                "top": 113,
+                "zoom": 1.12
+              },
+              "icon": "lucide-file-text",
+              "title": "GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations"
+            }
+          },
+          {
+            "id": "69471c714ac32c6d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
+                "page": 3,
+                "left": -17,
+                "top": 591,
+                "zoom": 1.37
+              },
+              "icon": "lucide-file-text",
+              "title": "FROM ISOLATED CONVERSATIONS TO HIERARCHICAL"
+            }
+          },
+          {
+            "id": "6b8be7a1010df03a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MPCPaper/Dynamic Memory Fores.pdf",
+                "page": 2,
+                "left": -10,
+                "top": 168,
+                "zoom": 1.4
+              },
+              "icon": "lucide-file-text",
+              "title": "Dynamic Memory Fores"
+            }
+          },
+          {
+            "id": "0350165006a8972c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
+                "page": 7,
+                "left": 66,
+                "top": 487,
+                "zoom": 1.56
+              },
+              "icon": "lucide-file-text",
+              "title": "MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing"
+            }
+          },
+          {
+            "id": "65c4eca32b4f79b7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
+                "page": 9,
+                "left": -4,
+                "top": 554,
+                "zoom": 1.3
+              },
+              "icon": "lucide-file-text",
+              "title": "TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents"
+            }
+          },
+          {
+            "id": "f7c8c2c5ec87ba7b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
+                "page": 1,
+                "left": 45,
+                "top": 635,
+                "zoom": 1.72
+              },
+              "icon": "lucide-file-text",
+              "title": "Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "d35d107a5cf400f0",
+        "type": "tabs",
+        "dimension": 29.952267303102627,
+        "children": [
+          {
+            "id": "8f97bd17bd7a4aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "544161cab12185ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d3aee1456dc6c12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a5edb25063b24df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "40e013d772471796",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bf5656523bc6ebf1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.7734375
+  },
+  "right": {
+    "id": "18e36fc53efe64b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "500df4282484b321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10a288648216f1f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "75a3cdfe838cc659",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "048dbd39b333e59e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bdfff633bd6ed581",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "739b014d2f9f4774",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7acd3b0002ffcea2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4935b103df3b6184",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f7c8c2c5ec87ba7b",
+  "lastOpenFiles": [
+    "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
+    "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
+    "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
+    "MPCNote/T-Retriever.md",
+    "MPCPaper/Collaborative Memory- Multi-User Memory Sharing in LLM Agents with Dynamic Access Control.pdf",
+    "MPCPaper/Beyond Dyadic Dialogue- A Comprehensive Survey of Multi-Party Dialogue Systems.pdf",
+    "WWW/2026/DG-MCTS- Dual-Guidance Monte Carlo Tree Search for Adaptive Emotional Support Dialogue Planning.pdf",
+    "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+    "WWW/2026/When Agents Trade- Live Multi-Market Trading Arena for LLM Agents.pdf",
+    "WWW/2026/What Should I Cite? A RAG Benchmark for Academic Citation Prediction.pdf",
+    "WWW/2026/VeritasFi- An Adaptable, Multi-tiered RAG Framework for Multi-modal Financial Question Answering.pdf",
+    "WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
+    "MPCNote/Retrieval Pipeline.md",
+    "Untitled.canvas",
+    "WWW/2026/What Should I Cite? A RAG Benchmark forAcademic Citation Prediction_files/CROSSMARK_Color_horizontal.svg",
+    "WWW/2026/What Should I Cite? A RAG Benchmark forAcademic Citation Prediction_files/3774904.cover.gif"
+  ]
+}
