@@ -220,7 +220,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +238,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -282,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -334,10 +332,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7c8c2c5ec87ba7b",
+  "active": "2a5edb25063b24df",
   "lastOpenFiles": [
-    "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
+    "Untitled.md",
+    "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
     "MPCNote/T-Retriever.md",
