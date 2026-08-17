@@ -220,6 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,6 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -280,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -314,7 +316,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -332,10 +335,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a5edb25063b24df",
+  "active": "f7c8c2c5ec87ba7b",
   "lastOpenFiles": [
-    "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Untitled.md",
+    "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
