@@ -120,7 +120,8 @@
               "title": "Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d35d107a5cf400f0",
@@ -219,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+                "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+                "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -281,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+                "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -334,10 +335,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c39e477fd7b0c6c1",
+  "active": "b9f087e527672729",
   "lastOpenFiles": [
-    "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+    "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Untitled.md",
     "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
