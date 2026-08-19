@@ -18,3 +18,8 @@
 > 
 > 这一段讲了为什么tree>graph
 
+> [!PDF|red] [[Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf#page=3&selection=285,0,314,15&color=red|c is the content of the current conversation round, v ∈ Rd is its d-dimensional text embedding, p is the parent node’s identifier (null for a root), β is the branch identifier, and si is a summary of the node’s content.]]
+> > c is the content of the current conversation round, v ∈ Rd is its d-dimensional text embedding, p is the parent node’s identifier (null for a root), β is the branch identifier, and si is a summary of the node’s content.
+> 
+> 这些tuple的内容都差不多
+
