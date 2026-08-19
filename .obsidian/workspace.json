@@ -6,7 +6,7 @@
       {
         "id": "fc4d533666db248b",
         "type": "tabs",
-        "dimension": 66.2507797878977,
+        "dimension": 68.12227074235808,
         "children": [
           {
             "id": "c39e477fd7b0c6c1",
@@ -79,10 +79,10 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
-                "page": 1,
-                "left": 34,
-                "top": 796,
-                "zoom": 1.56
+                "page": 8,
+                "left": 25,
+                "top": 366,
+                "zoom": 1.98
               },
               "icon": "lucide-file-text",
               "title": "MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing"
@@ -95,9 +95,9 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-                "page": 1,
-                "left": -22,
-                "top": 846,
+                "page": 4,
+                "left": -5,
+                "top": 82,
                 "zoom": 1.3
               },
               "icon": "lucide-file-text",
@@ -127,22 +127,22 @@
               "type": "pdf",
               "state": {
                 "file": "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
-                "page": 6,
-                "left": 18,
-                "top": 621,
-                "zoom": 1.57
+                "page": 1,
+                "left": 46,
+                "top": 27,
+                "zoom": 1.42
               },
               "icon": "lucide-file-text",
               "title": "AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       },
       {
         "id": "d35d107a5cf400f0",
         "type": "tabs",
-        "dimension": 33.74922021210231,
+        "dimension": 31.877729257641924,
         "children": [
           {
             "id": "8f97bd17bd7a4aed",
@@ -350,16 +350,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f853f940294f1293",
+  "active": "b9f087e527672729",
   "lastOpenFiles": [
+    "MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
+    "MPCPaper/Dynamic Memory Fores.pdf",
+    "MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
+    "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
-    "MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-    "MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
-    "MPCPaper/Dynamic Memory Fores.pdf",
     "MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
     "KnowledgeGraphPaper",
     "Untitled.md",
