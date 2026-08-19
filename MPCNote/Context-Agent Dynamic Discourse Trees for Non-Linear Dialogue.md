@@ -23,3 +23,8 @@
 > 
 > 这些tuple的内容都差不多
 
+> [!PDF|yellow] [[Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf#page=5&selection=36,0,45,32&color=yellow|The final context Ct+1 is constructed by combining the full dialogue of the current active path with summaries of inactive branches and topics.]]
+> > The final context Ct+1 is constructed by combining the full dialogue of the current active path with summaries of inactive branches and topics.
+> 
+> 既有具体检索的context，也有其他没检索到的模糊context
+

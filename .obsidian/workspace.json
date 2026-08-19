@@ -6,7 +6,7 @@
       {
         "id": "fc4d533666db248b",
         "type": "tabs",
-        "dimension": 70.04773269689737,
+        "dimension": 66.2507797878977,
         "children": [
           {
             "id": "c39e477fd7b0c6c1",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
                 "page": 6,
-                "left": 65,
-                "top": 39,
-                "zoom": 1.67
+                "left": 242,
+                "top": 313,
+                "zoom": 2.1
               },
               "icon": "lucide-file-text",
               "title": "Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues"
@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-                "page": 4,
-                "left": 12,
-                "top": 15,
+                "page": 8,
+                "left": 86,
+                "top": 661,
                 "zoom": 1.55
               },
               "icon": "lucide-file-text",
@@ -111,9 +111,9 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-                "page": 3,
-                "left": 95,
-                "top": 426,
+                "page": 5,
+                "left": 17,
+                "top": 815,
                 "zoom": 1.65
               },
               "icon": "lucide-file-text",
@@ -136,13 +136,12 @@
               "title": "AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "d35d107a5cf400f0",
         "type": "tabs",
-        "dimension": 29.952267303102623,
+        "dimension": 33.74922021210231,
         "children": [
           {
             "id": "8f97bd17bd7a4aed",
@@ -350,8 +349,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7c8c2c5ec87ba7b",
+  "active": "c39e477fd7b0c6c1",
   "lastOpenFiles": [
+    "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
@@ -359,8 +360,6 @@
     "MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "MPCPaper/Dynamic Memory Fores.pdf",
     "MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
-    "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "KnowledgeGraphPaper",
     "Untitled.md",
     "MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
