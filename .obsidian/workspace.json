@@ -111,9 +111,9 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-                "page": 2,
-                "left": 51,
-                "top": 524,
+                "page": 6,
+                "left": 47,
+                "top": 848,
                 "zoom": 1.56
               },
               "icon": "lucide-file-text",
@@ -129,7 +129,7 @@
                 "file": "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
                 "page": 6,
                 "left": 18,
-                "top": 189,
+                "top": 621,
                 "zoom": 1.57
               },
               "icon": "lucide-file-text",
@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "d35d107a5cf400f0",
@@ -350,10 +350,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7c8c2c5ec87ba7b",
+  "active": "f853f940294f1293",
   "lastOpenFiles": [
-    "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
+    "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
