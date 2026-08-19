@@ -112,8 +112,8 @@
               "state": {
                 "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
                 "page": 3,
-                "left": 40,
-                "top": 537,
+                "left": 177,
+                "top": 657,
                 "zoom": 1.97
               },
               "icon": "lucide-file-text",
@@ -128,8 +128,8 @@
               "state": {
                 "file": "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
                 "page": 6,
-                "left": 22,
-                "top": 185,
+                "left": 18,
+                "top": 189,
                 "zoom": 1.57
               },
               "icon": "lucide-file-text",
@@ -350,8 +350,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f97bd17bd7a4aed",
+  "active": "f7c8c2c5ec87ba7b",
   "lastOpenFiles": [
+    "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
@@ -359,7 +360,6 @@
     "MPCPaper/Dynamic Memory Fores.pdf",
     "MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
     "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "KnowledgeGraphPaper",
     "Untitled.md",
