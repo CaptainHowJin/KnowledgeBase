@@ -16,8 +16,8 @@
               "state": {
                 "file": "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
                 "page": 6,
-                "left": 60,
-                "top": 21,
+                "left": 65,
+                "top": 39,
                 "zoom": 1.67
               },
               "icon": "lucide-file-text",
@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-                "page": 6,
-                "left": 62,
-                "top": 79,
+                "page": 5,
+                "left": 13,
+                "top": 668,
                 "zoom": 1.55
               },
               "icon": "lucide-file-text",
@@ -111,16 +111,17 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-                "page": 3,
-                "left": -4,
-                "top": 841,
+                "page": 2,
+                "left": 31,
+                "top": 312,
                 "zoom": 1.72
               },
               "icon": "lucide-file-text",
               "title": "Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d35d107a5cf400f0",
@@ -219,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+                "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+                "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -281,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+                "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -315,7 +316,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,11 +335,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c39e477fd7b0c6c1",
+  "active": "b9f087e527672729",
   "lastOpenFiles": [
-    "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-    "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+    "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Untitled.md",
     "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
