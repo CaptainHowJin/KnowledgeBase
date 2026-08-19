@@ -6,7 +6,7 @@
       {
         "id": "fc4d533666db248b",
         "type": "tabs",
-        "dimension": 70.04773269689738,
+        "dimension": 70.04773269689737,
         "children": [
           {
             "id": "c39e477fd7b0c6c1",
@@ -111,10 +111,10 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-                "page": 2,
-                "left": 31,
-                "top": 312,
-                "zoom": 1.72
+                "page": 1,
+                "left": -20,
+                "top": 846,
+                "zoom": 0.7899696947298397
               },
               "icon": "lucide-file-text",
               "title": "Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue"
@@ -142,7 +142,7 @@
       {
         "id": "d35d107a5cf400f0",
         "type": "tabs",
-        "dimension": 29.952267303102627,
+        "dimension": 29.952267303102623,
         "children": [
           {
             "id": "8f97bd17bd7a4aed",
@@ -347,7 +347,6 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-git:Open Git source control": false
     }
   },
