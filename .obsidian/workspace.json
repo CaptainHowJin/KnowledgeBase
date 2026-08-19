@@ -112,8 +112,8 @@
               "state": {
                 "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
                 "page": 3,
-                "left": 30,
-                "top": 552,
+                "left": -4,
+                "top": 841,
                 "zoom": 1.72
               },
               "icon": "lucide-file-text",
@@ -316,8 +316,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
