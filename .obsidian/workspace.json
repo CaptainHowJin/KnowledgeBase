@@ -111,10 +111,10 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-                "page": 1,
-                "left": -20,
-                "top": 846,
-                "zoom": 0.7899696947298397
+                "page": 3,
+                "left": 40,
+                "top": 537,
+                "zoom": 1.97
               },
               "icon": "lucide-file-text",
               "title": "Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue"
@@ -350,8 +350,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7c8c2c5ec87ba7b",
+  "active": "8f97bd17bd7a4aed",
   "lastOpenFiles": [
+    "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
+    "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "MPCPaper/Dynamic Memory Fores.pdf",
@@ -359,14 +361,11 @@
     "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "KnowledgeGraphPaper",
     "Untitled.md",
-    "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
     "MPCNote/T-Retriever.md",
     "MPCPaper/Collaborative Memory- Multi-User Memory Sharing in LLM Agents with Dynamic Access Control.pdf",
-    "MPCPaper/Beyond Dyadic Dialogue- A Comprehensive Survey of Multi-Party Dialogue Systems.pdf",
     "MPCNote/Retrieval Pipeline.md",
     "Untitled.canvas",
     "WWW/2026/What Should I Cite? A RAG Benchmark forAcademic Citation Prediction_files/CROSSMARK_Color_horizontal.svg",
