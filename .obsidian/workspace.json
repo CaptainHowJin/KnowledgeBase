@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-                "page": 12,
-                "left": 83,
-                "top": 783,
+                "page": 6,
+                "left": 58,
+                "top": 27,
                 "zoom": 1.55
               },
               "icon": "lucide-file-text",
@@ -136,8 +136,7 @@
               "title": "AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d35d107a5cf400f0",
@@ -350,10 +349,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f087e527672729",
+  "active": "c39e477fd7b0c6c1",
   "lastOpenFiles": [
-    "MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "KnowledgeGraphNote/AutoSchemaKG Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.md",
     "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
