@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-                "page": 6,
-                "left": 58,
-                "top": 27,
-                "zoom": 1.55
+                "page": 8,
+                "left": -20,
+                "top": 581,
+                "zoom": 0.7463235294117647
               },
               "icon": "lucide-file-text",
               "title": "GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations"
@@ -142,7 +142,7 @@
       {
         "id": "d35d107a5cf400f0",
         "type": "tabs",
-        "dimension": 31.877729257641924,
+        "dimension": 31.87772925764192,
         "children": [
           {
             "id": "a2d407ed9910c627",
