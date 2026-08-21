@@ -32,9 +32,9 @@
               "state": {
                 "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "page": 9,
-                "left": -12,
-                "top": 623,
-                "zoom": 1.2708333333333335
+                "left": -17,
+                "top": 392,
+                "zoom": 0.9301470588235292
               },
               "icon": "lucide-file-text",
               "title": "GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations"
@@ -127,17 +127,17 @@
               "type": "pdf",
               "state": {
                 "file": "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
-                "page": 2,
-                "left": 44,
-                "top": 832,
-                "zoom": 1.1
+                "page": 1,
+                "left": -22,
+                "top": 18,
+                "zoom": 0.94
               },
               "icon": "lucide-file-text",
               "title": "AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       },
       {
         "id": "d35d107a5cf400f0",
@@ -365,11 +365,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f853f940294f1293",
+  "active": "b9f087e527672729",
   "lastOpenFiles": [
+    "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "KnowledgeGraphNote/AutoSchemaKG Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.md",
-    "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
