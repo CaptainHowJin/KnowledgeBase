@@ -127,10 +127,10 @@
               "type": "pdf",
               "state": {
                 "file": "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
-                "page": 3,
-                "left": -4,
-                "top": 720,
-                "zoom": 1.65
+                "page": 14,
+                "left": 88,
+                "top": 303,
+                "zoom": 1.58
               },
               "icon": "lucide-file-text",
               "title": "AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora"
@@ -352,10 +352,10 @@
   },
   "active": "f853f940294f1293",
   "lastOpenFiles": [
+    "KnowledgeGraphNote/AutoSchemaKG Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.md",
+    "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
-    "KnowledgeGraphNote/AutoSchemaKG Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.md",
     "MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "KnowledgeGraphNote",
