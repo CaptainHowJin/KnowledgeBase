@@ -6,7 +6,7 @@
       {
         "id": "fc4d533666db248b",
         "type": "tabs",
-        "dimension": 68.12227074235808,
+        "dimension": 62.625418060200666,
         "children": [
           {
             "id": "c39e477fd7b0c6c1",
@@ -111,69 +111,54 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-                "page": 5,
-                "left": -16,
-                "top": 819,
-                "zoom": 0.9562791041466481
+                "page": 3,
+                "left": 57,
+                "top": 634,
+                "zoom": 1.56
               },
               "icon": "lucide-file-text",
               "title": "Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue"
             }
           },
           {
-            "id": "a5ce502d392d1fd9",
+            "id": "0073145747e5a3f0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
+                "file": "MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
                 "page": 1,
-                "left": -22,
-                "top": 18,
-                "zoom": 0.94
+                "left": 38,
+                "top": 846,
+                "zoom": 1.21
               },
               "icon": "lucide-file-text",
-              "title": "AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora"
+              "title": "RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
-        "id": "d35d107a5cf400f0",
+        "id": "1b4c7c6962a31d0b",
         "type": "tabs",
-        "dimension": 31.87772925764192,
+        "dimension": 37.37458193979933,
         "children": [
           {
-            "id": "a2d407ed9910c627",
+            "id": "7f171f30ca1e6ee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeGraphNote/AutoSchemaKG Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.md",
+                "file": "MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AutoSchemaKG Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora"
-            }
-          },
-          {
-            "id": "f853f940294f1293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue"
+              "title": "RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.7734375
+    "width": 272.7734375,
+    "collapsed": true
   },
   "right": {
     "id": "18e36fc53efe64b6",
@@ -365,22 +351,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7c8c2c5ec87ba7b",
+  "active": "7f171f30ca1e6ee3",
   "lastOpenFiles": [
+    "MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
+    "MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
+    "MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
+    "MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
+    "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
     "MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
     "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
     "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "KnowledgeGraphNote/AutoSchemaKG Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.md",
     "MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "KnowledgeGraphNote",
-    "MPCPaper/Dynamic Memory Fores.pdf",
-    "MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-    "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-    "MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
     "MPCNote/T-Retriever.md",
     "MPCNote/Retrieval Pipeline.md",
     "Untitled.canvas",
