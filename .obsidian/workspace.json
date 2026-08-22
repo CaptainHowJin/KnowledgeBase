@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-                "page": 7,
-                "left": 8,
-                "top": 495,
+                "page": 1,
+                "left": -4,
+                "top": 681,
                 "zoom": 1.39
               },
               "icon": "lucide-file-text",
@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-                "page": 6,
-                "left": -20,
-                "top": 131,
-                "zoom": 0.7463235294117647
+                "page": 1,
+                "left": -17,
+                "top": 796,
+                "zoom": 0.9301470588235293
               },
               "icon": "lucide-file-text",
               "title": "GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations"
@@ -111,10 +111,10 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-                "page": 3,
-                "left": 61,
-                "top": 630,
-                "zoom": 1.56
+                "page": 5,
+                "left": -16,
+                "top": 819,
+                "zoom": 0.9562791041466481
               },
               "icon": "lucide-file-text",
               "title": "Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue"
@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "d35d107a5cf400f0",
@@ -365,20 +365,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f087e527672729",
+  "active": "f7c8c2c5ec87ba7b",
   "lastOpenFiles": [
+    "MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
+    "MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
+    "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
+    "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "KnowledgeGraphNote/AutoSchemaKG Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.md",
-    "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "KnowledgeGraphNote",
     "MPCPaper/Dynamic Memory Fores.pdf",
     "MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-    "MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
-    "KnowledgeGraphPaper",
     "MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
     "MPCNote/T-Retriever.md",
     "MPCNote/Retrieval Pipeline.md",
