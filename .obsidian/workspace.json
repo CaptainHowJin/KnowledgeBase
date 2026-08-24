@@ -6,7 +6,7 @@
       {
         "id": "fc4d533666db248b",
         "type": "tabs",
-        "dimension": 66.56269494697442,
+        "dimension": 70.05614472863381,
         "children": [
           {
             "id": "c39e477fd7b0c6c1",
@@ -112,8 +112,8 @@
               "state": {
                 "file": "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
                 "page": 3,
-                "left": 57,
-                "top": 634,
+                "left": 53,
+                "top": 638,
                 "zoom": 1.56
               },
               "icon": "lucide-file-text",
@@ -127,10 +127,10 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
-                "page": 4,
-                "left": 158,
-                "top": 628,
-                "zoom": 1.79
+                "page": 1,
+                "left": -18,
+                "top": 846,
+                "zoom": 1.32
               },
               "icon": "lucide-file-text",
               "title": "RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory"
@@ -142,7 +142,7 @@
       {
         "id": "1b4c7c6962a31d0b",
         "type": "tabs",
-        "dimension": 33.43730505302558,
+        "dimension": 29.94385527136619,
         "children": [
           {
             "id": "7f171f30ca1e6ee3",
