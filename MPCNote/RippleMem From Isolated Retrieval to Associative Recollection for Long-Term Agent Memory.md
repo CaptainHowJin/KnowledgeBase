@@ -18,5 +18,10 @@
 > 
 > 多次检索要比一次检索要好 但是时间开销如何呢？？
 
+> [!PDF|yellow] [[RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf#page=4&selection=135,0,148,37&color=yellow|(Pi, Li, Ti) expose episodic cues that can later participate in structured and cross-cue association.]]
+> > (Pi, Li, Ti) expose episodic cues that can later participate in structured and cross-cue association. 
+> 
+> 跟我们的forest view 有类似之处
+
 
 

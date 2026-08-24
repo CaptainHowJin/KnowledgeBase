@@ -127,10 +127,10 @@
               "type": "pdf",
               "state": {
                 "file": "MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
-                "page": 14,
-                "left": 42,
-                "top": 44,
-                "zoom": 1.56
+                "page": 4,
+                "left": 158,
+                "top": 628,
+                "zoom": 1.79
               },
               "icon": "lucide-file-text",
               "title": "RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory"
@@ -350,12 +350,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f171f30ca1e6ee3",
+  "active": "0073145747e5a3f0",
   "lastOpenFiles": [
+    "MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
     "MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
     "MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
     "MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
     "MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
