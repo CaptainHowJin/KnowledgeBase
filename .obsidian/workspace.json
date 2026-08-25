@@ -15,8 +15,8 @@
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
                 "page": 6,
-                "left": 70,
-                "top": 383,
+                "left": -41,
+                "top": 387,
                 "zoom": 1.72
               },
               "icon": "lucide-file-text",
@@ -30,43 +30,13 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-                "page": 5,
-                "left": -13,
-                "top": 327,
-                "zoom": 1.1262254901960784
+                "page": 6,
+                "left": -119,
+                "top": 105,
+                "zoom": 1.4
               },
               "icon": "lucide-file-text",
               "title": "GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations"
-            }
-          },
-          {
-            "id": "69471c714ac32c6d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "6b8be7a1010df03a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "0350165006a8972c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           },
           {
@@ -77,7 +47,7 @@
               "state": {
                 "file": "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
                 "page": 1,
-                "left": 9,
+                "left": -61,
                 "top": 846,
                 "zoom": 1.66
               },
@@ -93,7 +63,7 @@
               "state": {
                 "file": "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
                 "page": 1,
-                "left": -11,
+                "left": -116,
                 "top": 796,
                 "zoom": 1.415441176470588
               },
@@ -296,10 +266,10 @@
   },
   "active": "b9f087e527672729",
   "lastOpenFiles": [
+    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
     "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
     "Note/MPCNote/T-Retriever.md",
