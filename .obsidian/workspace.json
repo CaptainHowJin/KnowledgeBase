@@ -31,9 +31,9 @@
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "page": 6,
-                "left": -13,
-                "top": 3,
-                "zoom": 1.1446078431372548
+                "left": -11,
+                "top": 95,
+                "zoom": 1.415441176470588
               },
               "icon": "lucide-file-text",
               "title": "GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations"
@@ -143,8 +143,8 @@
               "state": {
                 "file": "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
                 "page": 8,
-                "left": -132,
-                "top": 444,
+                "left": -24,
+                "top": 448,
                 "zoom": 1.36
               },
               "icon": "lucide-file-text",
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -344,8 +344,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f087e527672729",
+  "active": "a11fa0314996366f",
   "lastOpenFiles": [
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
     "Paper/WWW/2026/VeritasFi- An Adaptable, Multi-tiered RAG Framework for Multi-modal Financial Question Answering.pdf",
     "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
@@ -357,7 +358,6 @@
     "Paper",
     "Note",
     "Paper/WWW/2026/When Agents Trade- Live Multi-Market Trading Arena for LLM Agents.pdf",
-    "Paper/WWW/2026/What Should I Cite? A RAG Benchmark for Academic Citation Prediction.pdf",
     "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
     "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
