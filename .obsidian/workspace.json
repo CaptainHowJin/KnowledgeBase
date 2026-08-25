@@ -30,10 +30,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-                "page": 17,
-                "left": -12,
-                "top": 781,
-                "zoom": 1.308823529411765
+                "page": 16,
+                "left": -8,
+                "top": 65,
+                "zoom": 1.897058823529412
               },
               "icon": "lucide-file-text",
               "title": "GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations"
@@ -142,17 +142,17 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
-                "page": 11,
-                "left": -8,
-                "top": 526,
-                "zoom": 1.8970588235294117
+                "page": 8,
+                "left": -132,
+                "top": 444,
+                "zoom": 1.36
               },
               "icon": "lucide-file-text",
               "title": "GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -344,14 +344,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a11fa0314996366f",
+  "active": "b9f087e527672729",
   "lastOpenFiles": [
+    "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
     "Paper/WWW/2026/VeritasFi- An Adaptable, Multi-tiered RAG Framework for Multi-modal Financial Question Answering.pdf",
     "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
     "Paper/WWW/2026/Large Reasoning Embedding Models- Towards Next-Generation Dense Retrieval Paradigm.pdf",
     "Paper/WWW/2026/GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale Recommendations.pdf",
     "Paper/WWW/2026/DG-MCTS- Dual-Guidance Monte Carlo Tree Search for Adaptive Emotional Support Dialogue Planning.pdf",
-    "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
     "Note/WWWNote/GRank Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.md",
     "Note/WWWNote",
     "Paper",
