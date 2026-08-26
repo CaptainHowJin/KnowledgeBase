@@ -79,17 +79,49 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
-                "page": 1,
-                "left": -1,
-                "top": 483,
-                "zoom": 1.32
+                "page": 7,
+                "left": 216,
+                "top": 792,
+                "zoom": 1.96
               },
               "icon": "lucide-file-text",
               "title": "MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing"
             }
+          },
+          {
+            "id": "8416a1b593ef3c89",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 796,
+                "zoom": 1.24
+              },
+              "icon": "lucide-file-text",
+              "title": "Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval"
+            }
+          },
+          {
+            "id": "5bad46889de5578b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
+                "page": 9,
+                "left": -12,
+                "top": 558,
+                "zoom": 1.2662193671507
+              },
+              "icon": "lucide-file-text",
+              "title": "TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "56cde29d821c4d33",
@@ -302,14 +334,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4350da3a725645ac",
+  "active": "5bad46889de5578b",
   "lastOpenFiles": [
+    "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
+    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
-    "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/T-Retriever.md",
