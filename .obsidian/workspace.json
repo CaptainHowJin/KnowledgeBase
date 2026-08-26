@@ -47,10 +47,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
-                "page": 5,
-                "left": 19,
-                "top": 496,
-                "zoom": 1.66
+                "page": 6,
+                "left": 45,
+                "top": 440,
+                "zoom": 1.42
               },
               "icon": "lucide-file-text",
               "title": "RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory"
@@ -80,9 +80,9 @@
               "state": {
                 "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
                 "page": 1,
-                "left": -13,
-                "top": 377,
-                "zoom": 1.2316176470588236
+                "left": -1,
+                "top": 483,
+                "zoom": 1.32
               },
               "icon": "lucide-file-text",
               "title": "MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing"
@@ -304,9 +304,9 @@
   },
   "active": "0073145747e5a3f0",
   "lastOpenFiles": [
-    "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
-    "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
+    "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
+    "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
