@@ -89,35 +89,35 @@
             }
           },
           {
-            "id": "8416a1b593ef3c89",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 796,
-                "zoom": 1.24
-              },
-              "icon": "lucide-file-text",
-              "title": "Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval"
-            }
-          },
-          {
             "id": "5bad46889de5578b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-                "page": 9,
+                "page": 3,
                 "left": -12,
-                "top": 558,
+                "top": 88,
                 "zoom": 1.2662193671507
               },
               "icon": "lucide-file-text",
               "title": "TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents"
+            }
+          },
+          {
+            "id": "e3c7d96b6c788e0b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 775,
+                "zoom": 1.2316176470588238
+              },
+              "icon": "lucide-file-text",
+              "title": "Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval"
             }
           }
         ],
@@ -129,17 +129,17 @@
         "dimension": 33.85286783042394,
         "children": [
           {
-            "id": "ff92e2d3c0052686",
+            "id": "8416a1b593ef3c89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
+                "file": "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory"
+              "title": "Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval"
             }
           }
         ]
@@ -334,9 +334,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bad46889de5578b",
+  "active": "e3c7d96b6c788e0b",
   "lastOpenFiles": [
+    "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
+    "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
@@ -349,7 +351,6 @@
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Paper/WWW/2026/VeritasFi- An Adaptable, Multi-tiered RAG Framework for Multi-modal Financial Question Answering.pdf",
     "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
-    "Paper/WWW/2026/Large Reasoning Embedding Models- Towards Next-Generation Dense Retrieval Paradigm.pdf",
     "Note/WWWNote/GRank Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.md",
     "Note/KnowledgeGraphNote/AutoSchemaKG Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.md",
     "Note/MPCNote/Retrieval Pipeline.md",
