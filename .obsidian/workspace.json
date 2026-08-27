@@ -16,9 +16,9 @@
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
                 "page": 7,
-                "left": 86,
-                "top": 777,
-                "zoom": 1.83
+                "left": 162,
+                "top": 784,
+                "zoom": 1.73
               },
               "icon": "lucide-file-text",
               "title": "Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues"
@@ -32,8 +32,8 @@
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "page": 6,
-                "left": 76,
-                "top": 39,
+                "left": 75,
+                "top": 40,
                 "zoom": 1.68
               },
               "icon": "lucide-file-text",
@@ -127,9 +127,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
-                "page": 1,
-                "left": 79,
-                "top": 541,
+                "page": 3,
+                "left": 85,
+                "top": 252,
                 "zoom": 1.78
               },
               "icon": "lucide-file-text",
@@ -366,8 +366,8 @@
   },
   "active": "e3c7d96b6c788e0b",
   "lastOpenFiles": [
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
