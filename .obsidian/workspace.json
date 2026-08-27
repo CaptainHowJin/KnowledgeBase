@@ -32,8 +32,8 @@
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "page": 6,
-                "left": 81,
-                "top": 793,
+                "left": 76,
+                "top": 39,
                 "zoom": 1.68
               },
               "icon": "lucide-file-text",
@@ -113,14 +113,15 @@
                 "file": "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
                 "page": 1,
                 "left": 76,
-                "top": 662,
+                "top": 700,
                 "zoom": 1.78
               },
               "icon": "lucide-file-text",
               "title": "Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "56cde29d821c4d33",
@@ -333,15 +334,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c39e477fd7b0c6c1",
+  "active": "b9f087e527672729",
   "lastOpenFiles": [
+    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
     "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
