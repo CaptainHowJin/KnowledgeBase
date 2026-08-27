@@ -105,22 +105,6 @@
             }
           },
           {
-            "id": "e3c7d96b6c788e0b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
-                "page": 1,
-                "left": 79,
-                "top": 570,
-                "zoom": 1.78
-              },
-              "icon": "lucide-file-text",
-              "title": "Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval"
-            }
-          },
-          {
             "id": "4d38fb5eb16abbfe",
             "type": "leaf",
             "state": {
@@ -135,9 +119,25 @@
               "icon": "lucide-file-text",
               "title": "Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue"
             }
+          },
+          {
+            "id": "e3c7d96b6c788e0b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
+                "page": 1,
+                "left": 79,
+                "top": 541,
+                "zoom": 1.78
+              },
+              "icon": "lucide-file-text",
+              "title": "Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "56cde29d821c4d33",
@@ -366,12 +366,12 @@
   },
   "active": "e3c7d96b6c788e0b",
   "lastOpenFiles": [
-    "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
+    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
+    "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
