@@ -49,7 +49,7 @@
                 "file": "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
                 "page": 5,
                 "left": 30,
-                "top": 539,
+                "top": 327,
                 "zoom": 1.42
               },
               "icon": "lucide-file-text",
@@ -127,9 +127,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
-                "page": 3,
-                "left": 85,
-                "top": 252,
+                "page": 4,
+                "left": 87,
+                "top": 353,
                 "zoom": 1.78
               },
               "icon": "lucide-file-text",
@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       },
       {
         "id": "56cde29d821c4d33",
@@ -364,11 +364,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3c7d96b6c788e0b",
+  "active": "0073145747e5a3f0",
   "lastOpenFiles": [
+    "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
