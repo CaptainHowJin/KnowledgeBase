@@ -48,8 +48,8 @@
               "state": {
                 "file": "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
                 "page": 14,
-                "left": 33,
-                "top": 27,
+                "left": 44,
+                "top": 577,
                 "zoom": 1.42
               },
               "icon": "lucide-file-text",
@@ -127,9 +127,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
-                "page": 4,
+                "page": 3,
                 "left": 87,
-                "top": 353,
+                "top": 382,
                 "zoom": 1.78
               },
               "icon": "lucide-file-text",
@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       },
       {
         "id": "56cde29d821c4d33",
@@ -364,10 +364,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0073145747e5a3f0",
+  "active": "e3c7d96b6c788e0b",
   "lastOpenFiles": [
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
+    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
