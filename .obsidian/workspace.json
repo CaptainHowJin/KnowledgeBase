@@ -128,16 +128,32 @@
               "state": {
                 "file": "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
                 "page": 5,
-                "left": 91,
-                "top": 411,
+                "left": 175,
+                "top": 525,
                 "zoom": 1.78
               },
               "icon": "lucide-file-text",
               "title": "Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval"
             }
+          },
+          {
+            "id": "aad85b0afd5ab3bc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper/KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
+                "page": 1,
+                "left": -12,
+                "top": 846,
+                "zoom": 1.2662193671507
+              },
+              "icon": "lucide-file-text",
+              "title": "AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "56cde29d821c4d33",
@@ -364,10 +380,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3c7d96b6c788e0b",
+  "active": "aad85b0afd5ab3bc",
   "lastOpenFiles": [
-    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
+    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
