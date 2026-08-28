@@ -111,13 +111,29 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-                "page": 3,
+                "page": 2,
                 "left": -12,
-                "top": 88,
+                "top": 165,
                 "zoom": 1.2662193671507
               },
               "icon": "lucide-file-text",
               "title": "TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents"
+            }
+          },
+          {
+            "id": "73527c31434c34d5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper/MPCPaper/Dynamic Memory Fores.pdf",
+                "page": 3,
+                "left": -13,
+                "top": 73,
+                "zoom": 1.2316176470588236
+              },
+              "icon": "lucide-file-text",
+              "title": "Dynamic Memory Fores"
             }
           },
           {
@@ -185,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "56cde29d821c4d33",
@@ -412,8 +428,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bad46889de5578b",
+  "active": "73527c31434c34d5",
   "lastOpenFiles": [
+    "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
     "Paper/KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "博士生科研入门辅导.pdf",
@@ -425,7 +442,6 @@
     "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-    "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
     "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
     "Note/MPCNote/T-Retriever.md",
