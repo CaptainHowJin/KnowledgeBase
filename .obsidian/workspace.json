@@ -47,10 +47,10 @@
               "type": "pdf",
               "state": {
                 "file": "博士生科研入门辅导.pdf",
-                "page": 1,
-                "left": -26,
-                "top": 544,
-                "zoom": 0.58671875
+                "page": 5,
+                "left": -20,
+                "top": 440,
+                "zoom": 0.7851562499999999
               },
               "icon": "lucide-file-text",
               "title": "博士生科研入门辅导"
@@ -160,16 +160,32 @@
               "state": {
                 "file": "Paper/KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
                 "page": 2,
-                "left": -16,
-                "top": 739,
-                "zoom": 0.9461997460001749
+                "left": -12,
+                "top": 743,
+                "zoom": 1.2662193671507
               },
               "icon": "lucide-file-text",
               "title": "AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora"
             }
+          },
+          {
+            "id": "227f1fb53c19ce00",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
+                "page": 4,
+                "left": 94,
+                "top": 33,
+                "zoom": 1.67
+              },
+              "icon": "lucide-file-text",
+              "title": "FROM ISOLATED CONVERSATIONS TO HIERARCHICAL"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "56cde29d821c4d33",
@@ -396,11 +412,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95672a5e84b54ed7",
+  "active": "5bad46889de5578b",
   "lastOpenFiles": [
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "博士生科研入门辅导.pdf",
+    "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
     "Paper/KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
+    "博士生科研入门辅导.pdf",
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
@@ -413,7 +430,6 @@
     "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
     "Note/MPCNote/T-Retriever.md",
     "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
-    "Paper/WWW/2026/VeritasFi- An Adaptable, Multi-tiered RAG Framework for Multi-modal Financial Question Answering.pdf",
     "Note/WWWNote/GRank Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.md",
     "Note/KnowledgeGraphNote/AutoSchemaKG Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.md",
     "Note/MPCNote/Retrieval Pipeline.md",
