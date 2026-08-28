@@ -79,10 +79,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
-                "page": 7,
-                "left": 216,
-                "top": 222,
-                "zoom": 1.96
+                "page": 12,
+                "left": -18,
+                "top": 796,
+                "zoom": 1.21
               },
               "icon": "lucide-file-text",
               "title": "MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing"
@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "56cde29d821c4d33",
@@ -364,8 +364,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4350da3a725645ac",
+  "active": "e3c7d96b6c788e0b",
   "lastOpenFiles": [
+    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
@@ -374,7 +375,6 @@
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
     "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
     "Note/MPCNote/T-Retriever.md",
