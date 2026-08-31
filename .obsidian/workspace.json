@@ -95,7 +95,7 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
-                "page": 12,
+                "page": 1,
                 "left": -18,
                 "top": 796,
                 "zoom": 1.21
@@ -191,9 +191,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
-                "page": 4,
-                "left": 94,
-                "top": 33,
+                "page": 3,
+                "left": 91,
+                "top": 741,
                 "zoom": 1.67
               },
               "icon": "lucide-file-text",
@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       },
       {
         "id": "56cde29d821c4d33",
@@ -428,16 +428,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4350da3a725645ac",
+  "active": "e3c7d96b6c788e0b",
   "lastOpenFiles": [
+    "Paper/KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
+    "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
+    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/Dynamic Memory Fores.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-    "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
-    "Paper/KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "博士生科研入门辅导.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
-    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
