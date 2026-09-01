@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-                "page": 6,
-                "left": 107,
-                "top": 320,
-                "zoom": 1.7
+                "page": 18,
+                "left": 112,
+                "top": 256,
+                "zoom": 1.61
               },
               "icon": "lucide-file-text",
               "title": "Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues"
@@ -32,8 +32,8 @@
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "page": 7,
-                "left": 72,
-                "top": 461,
+                "left": 71,
+                "top": 686,
                 "zoom": 1.68
               },
               "icon": "lucide-file-text",
@@ -200,7 +200,8 @@
               "title": "FROM ISOLATED CONVERSATIONS TO HIERARCHICAL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "56cde29d821c4d33",
@@ -427,10 +428,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c39e477fd7b0c6c1",
+  "active": "b9f087e527672729",
   "lastOpenFiles": [
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Paper/KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
