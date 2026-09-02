@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "document": {
+    "id": "pdf-1a7c24e85fdeae75",
+    "vaultPath": "博士生科研入门辅导.pdf"
+  },
+  "pages": [
+    {
+      "page": 6,
+      "width": 1278.7263681592042,
+      "height": 719.6019900497513,
+      "rotation": 0,
+      "strokes": [
+        {
+          "id": "dfb974b6-88ee-447b-be7d-caeec8fc136a",
+          "page": 6,
+          "tool": "pen",
+          "color": "#f59e0b",
+          "width": 1.5,
+          "opacity": 1,
+          "inputType": "mouse",
+          "points": [
+            {
+              "x": 856.6666666666667,
+              "y": 635.8059701492538,
+              "pressure": 0.5,
+              "tiltX": 0,
+              "tiltY": 0,
+              "time": 572955891.4
+            },
+            {
+              "x": 856.6666666666667,
+              "y": 635.8059701492538,
+              "pressure": 0.5,
+              "tiltX": 0,
+              "tiltY": 0,
+              "time": 572956010.4
+            }
+          ],
+          "createdAt": "2026-09-02T07:18:57.534Z",
+          "updatedAt": "2026-09-02T07:18:57.534Z"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-09-02T07:18:14.279Z",
+  "updatedAt": "2026-09-02T07:19:01.521Z"
+}
