@@ -159,10 +159,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
-                "page": 1,
-                "left": 8,
-                "top": 586,
-                "zoom": 2.21
+                "page": 2,
+                "left": 201,
+                "top": 634,
+                "zoom": 1.89
               },
               "icon": "lucide-file-text",
               "title": "MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning"
@@ -415,9 +415,9 @@
   },
   "active": "aad85b0afd5ab3bc",
   "lastOpenFiles": [
-    "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
     "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
+    "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Paper/KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
@@ -428,7 +428,6 @@
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
-    "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
     "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
     "Note/MPCNote/T-Retriever.md",
     "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
