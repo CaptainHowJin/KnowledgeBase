@@ -160,8 +160,8 @@
               "state": {
                 "file": "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
                 "page": 1,
-                "left": 10,
-                "top": 613,
+                "left": 8,
+                "top": 586,
                 "zoom": 2.21
               },
               "icon": "lucide-file-text",
@@ -415,6 +415,7 @@
   },
   "active": "aad85b0afd5ab3bc",
   "lastOpenFiles": [
+    "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
     "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
