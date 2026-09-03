@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-                "page": 17,
-                "left": 65,
-                "top": 67,
-                "zoom": 1.61
+                "page": 6,
+                "left": -8,
+                "top": 309,
+                "zoom": 1.25
               },
               "icon": "lucide-file-text",
               "title": "Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues"
@@ -158,14 +158,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
-                "page": 2,
-                "left": -12,
-                "top": 743,
-                "zoom": 1.2662193671507
+                "file": "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
+                "page": 1,
+                "left": 10,
+                "top": 613,
+                "zoom": 2.21
               },
               "icon": "lucide-file-text",
-              "title": "AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora"
+              "title": "MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning"
             }
           },
           {
@@ -184,7 +184,8 @@
               "title": "FROM ISOLATED CONVERSATIONS TO HIERARCHICAL"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       },
       {
         "id": "56cde29d821c4d33",
@@ -197,12 +198,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
+                "file": "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval"
+              "title": "MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning"
             }
           },
           {
@@ -412,21 +413,21 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "c39e477fd7b0c6c1",
+  "active": "aad85b0afd5ab3bc",
   "lastOpenFiles": [
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
+    "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
+    "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
+    "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Paper/KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
+    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
-    "博士生科研入门辅导.pdf",
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
-    "Paper/MPCPaper/Dynamic Memory Fores.pdf",
-    "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
     "Note/MPCNote/T-Retriever.md",
     "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
