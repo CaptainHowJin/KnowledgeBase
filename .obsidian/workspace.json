@@ -159,10 +159,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
-                "page": 11,
-                "left": 21,
-                "top": 655,
-                "zoom": 1.54
+                "page": 5,
+                "left": 30,
+                "top": 237,
+                "zoom": 1.87
               },
               "icon": "lucide-file-text",
               "title": "MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning"
@@ -415,9 +415,9 @@
   },
   "active": "aad85b0afd5ab3bc",
   "lastOpenFiles": [
-    "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
-    "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
+    "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
+    "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Paper/KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
