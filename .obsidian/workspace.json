@@ -16,7 +16,7 @@
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
                 "page": 6,
-                "left": -8,
+                "left": -4,
                 "top": 309,
                 "zoom": 1.25
               },
@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-                "page": 8,
-                "left": 76,
-                "top": 399,
-                "zoom": 1.8
+                "page": 10,
+                "left": 91,
+                "top": 689,
+                "zoom": 1.6
               },
               "icon": "lucide-file-text",
               "title": "GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations"
@@ -161,7 +161,7 @@
                 "file": "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
                 "page": 5,
                 "left": 30,
-                "top": 237,
+                "top": 286,
                 "zoom": 1.87
               },
               "icon": "lucide-file-text",
@@ -184,8 +184,7 @@
               "title": "FROM ISOLATED CONVERSATIONS TO HIERARCHICAL"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       },
       {
         "id": "56cde29d821c4d33",
@@ -413,17 +412,17 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "aad85b0afd5ab3bc",
+  "active": "c39e477fd7b0c6c1",
   "lastOpenFiles": [
-    "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
+    "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Paper/KnowledgeGraphPaper/AutoSchemaKG- Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.pdf",
     "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
