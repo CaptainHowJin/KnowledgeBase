@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-                "page": 9,
-                "left": 78,
-                "top": 571,
+                "page": 4,
+                "left": 67,
+                "top": 416,
                 "zoom": 1.6
               },
               "icon": "lucide-file-text",
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "56cde29d821c4d33",
@@ -287,8 +287,9 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "b9f087e527672729",
+  "active": "83615b9771acb41c",
   "lastOpenFiles": [
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
@@ -296,7 +297,6 @@
     "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
     "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
