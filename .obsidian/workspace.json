@@ -62,14 +62,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
+                "file": "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
                 "page": 1,
-                "left": 10,
+                "left": -13,
                 "top": 796,
-                "zoom": 1.65
+                "zoom": 1.2316176470588236
               },
               "icon": "lucide-file-text",
-              "title": "DTCRS- Dynamic Tree Construction for Recursive Summarization"
+              "title": "SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING"
             }
           }
         ],
@@ -289,12 +289,12 @@
   },
   "active": "83615b9771acb41c",
   "lastOpenFiles": [
+    "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
+    "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
-    "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
     "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
     "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
