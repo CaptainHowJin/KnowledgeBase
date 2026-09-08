@@ -48,8 +48,8 @@
               "state": {
                 "file": "博士生科研入门辅导.pdf",
                 "page": 8,
-                "left": -19,
-                "top": 67,
+                "left": -3,
+                "top": 119,
                 "zoom": 0.78515625
               },
               "icon": "lucide-file-text",
@@ -63,17 +63,17 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 796,
-                "zoom": 1.2316176470588236
+                "page": 3,
+                "left": 103,
+                "top": 459,
+                "zoom": 1.69
               },
               "icon": "lucide-file-text",
               "title": "SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "56cde29d821c4d33",
@@ -287,10 +287,10 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "83615b9771acb41c",
+  "active": "95672a5e84b54ed7",
   "lastOpenFiles": [
-    "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
+    "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
