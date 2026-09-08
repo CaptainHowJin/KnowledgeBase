@@ -63,17 +63,33 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
-                "page": 4,
-                "left": 81,
-                "top": 354,
+                "page": 5,
+                "left": 94,
+                "top": 181,
                 "zoom": 1.69
               },
               "icon": "lucide-file-text",
               "title": "SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING"
             }
+          },
+          {
+            "id": "bddc6ebbd07c2495",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
+                "page": 27,
+                "left": -13,
+                "top": 770,
+                "zoom": 1.2316176470588236
+              },
+              "icon": "lucide-file-text",
+              "title": "MemOS- A Memory OS for AI System"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "56cde29d821c4d33",
@@ -287,21 +303,21 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "83615b9771acb41c",
+  "active": "bddc6ebbd07c2495",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/ZEP- A TEMPORAL KNOWLEDGE GRAPH ARCHITECTURE FOR AGENT MEMORY.pdf",
+    "Paper/AgentMemoryPaper/Mem0- Building Production-Ready AI Agents with Scalable Long-Term Memory.pdf",
+    "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
+    "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
     "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
-    "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
-    "Paper/AgentMemoryPaper/Mem0- Building Production-Ready AI Agents with Scalable Long-Term Memory.pdf",
     "Paper/AgentMemoryPaper",
     "Paper/AgentMemory",
     "博士生科研入门辅导.pdf",
     "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
-    "Paper/MPCPaper/MemoTime- Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.pdf",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
