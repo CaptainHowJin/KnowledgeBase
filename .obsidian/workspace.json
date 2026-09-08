@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-                "page": 11,
-                "left": 13,
-                "top": 331,
+                "page": 6,
+                "left": 58,
+                "top": 115,
                 "zoom": 1.52
               },
               "icon": "lucide-file-text",
@@ -31,13 +31,29 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-                "page": 8,
-                "left": -4,
-                "top": 455,
+                "page": 12,
+                "left": 75,
+                "top": 773,
                 "zoom": 1.39
               },
               "icon": "lucide-file-text",
               "title": "GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations"
+            }
+          },
+          {
+            "id": "1e5b3581a79614cd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 539,
+                "zoom": 1.2316176470588236
+              },
+              "icon": "lucide-file-text",
+              "title": "MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing"
             }
           },
           {
@@ -79,9 +95,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
-                "page": 27,
+                "page": 23,
                 "left": -13,
-                "top": 770,
+                "top": 145,
                 "zoom": 1.2316176470588236
               },
               "icon": "lucide-file-text",
@@ -89,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "56cde29d821c4d33",
@@ -303,19 +319,19 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "bddc6ebbd07c2495",
+  "active": "b9f087e527672729",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
+    "Paper/AgentMemoryPaper/From Local to Global- A GraphRAG Approach to Query-Focused Summarization.pdf",
+    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
+    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/AgentMemoryPaper/ZEP- A TEMPORAL KNOWLEDGE GRAPH ARCHITECTURE FOR AGENT MEMORY.pdf",
     "Paper/AgentMemoryPaper/Mem0- Building Production-Ready AI Agents with Scalable Long-Term Memory.pdf",
     "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
     "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
     "Paper/AgentMemoryPaper",
-    "Paper/AgentMemory",
-    "博士生科研入门辅导.pdf",
-    "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
