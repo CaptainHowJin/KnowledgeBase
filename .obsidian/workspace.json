@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-                "page": 7,
-                "left": 77,
-                "top": 760,
+                "page": 8,
+                "left": 36,
+                "top": 48,
                 "zoom": 1.52
               },
               "icon": "lucide-file-text",
@@ -64,15 +64,16 @@
               "state": {
                 "file": "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
                 "page": 3,
-                "left": 103,
-                "top": 459,
+                "left": 36,
+                "top": 474,
                 "zoom": 1.69
               },
               "icon": "lucide-file-text",
               "title": "SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "56cde29d821c4d33",
@@ -286,13 +287,13 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "c39e477fd7b0c6c1",
+  "active": "83615b9771acb41c",
   "lastOpenFiles": [
+    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
     "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
     "Paper/AgentMemoryPaper/Mem0- Building Production-Ready AI Agents with Scalable Long-Term Memory.pdf",
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/AgentMemoryPaper",
     "Paper/AgentMemory",
     "博士生科研入门辅导.pdf",
