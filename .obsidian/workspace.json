@@ -94,14 +94,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/MPCPaper/EvoMemBench- Benchmarking Agent Memory from a Self-Evolving Perspective.pdf",
+                "file": "Paper/MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
                 "page": 1,
-                "left": 61,
-                "top": 218,
-                "zoom": 1.62
+                "left": -13,
+                "top": 796,
+                "zoom": 1.2316176470588236
               },
               "icon": "lucide-file-text",
-              "title": "EvoMemBench- Benchmarking Agent Memory from a Self-Evolving Perspective"
+              "title": "ArborMem- Navigating Interaction States with Memory Forests"
             }
           },
           {
@@ -337,8 +337,8 @@
   },
   "active": "8f1cdd8cf1afdaad",
   "lastOpenFiles": [
-    "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
     "Paper/MPCPaper/EvoMemBench- Benchmarking Agent Memory from a Self-Evolving Perspective.pdf",
+    "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
     "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
