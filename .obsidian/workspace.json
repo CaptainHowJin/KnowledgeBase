@@ -49,7 +49,7 @@
                 "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
                 "page": 1,
                 "left": -13,
-                "top": 539,
+                "top": 537,
                 "zoom": 1.2316176470588236
               },
               "icon": "lucide-file-text",
@@ -121,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "56cde29d821c4d33",
@@ -335,8 +335,9 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "8f1cdd8cf1afdaad",
+  "active": "1e5b3581a79614cd",
   "lastOpenFiles": [
+    "Paper/MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
     "Paper/MPCPaper/EvoMemBench- Benchmarking Agent Memory from a Self-Evolving Perspective.pdf",
     "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
     "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
@@ -347,7 +348,6 @@
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/AgentMemoryPaper/ZEP- A TEMPORAL KNOWLEDGE GRAPH ARCHITECTURE FOR AGENT MEMORY.pdf",
     "Paper/AgentMemoryPaper/Mem0- Building Production-Ready AI Agents with Scalable Long-Term Memory.pdf",
-    "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
