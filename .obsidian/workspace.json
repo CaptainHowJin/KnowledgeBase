@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-                "page": 6,
-                "left": 58,
-                "top": 115,
+                "page": 7,
+                "left": 66,
+                "top": 770,
                 "zoom": 1.52
               },
               "icon": "lucide-file-text",
@@ -112,15 +112,16 @@
               "state": {
                 "file": "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
                 "page": 23,
-                "left": -13,
-                "top": 145,
-                "zoom": 1.2316176470588236
+                "left": -16,
+                "top": 149,
+                "zoom": 0.920343137254902
               },
               "icon": "lucide-file-text",
               "title": "MemOS- A Memory OS for AI System"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "56cde29d821c4d33",
@@ -334,17 +335,17 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "c39e477fd7b0c6c1",
+  "active": "8f1cdd8cf1afdaad",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
+    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
     "Paper/MPCPaper/EvoMemBench- Benchmarking Agent Memory from a Self-Evolving Perspective.pdf",
-    "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
     "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/AgentMemoryPaper/From Local to Global- A GraphRAG Approach to Query-Focused Summarization.pdf",
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/AgentMemoryPaper/ZEP- A TEMPORAL KNOWLEDGE GRAPH ARCHITECTURE FOR AGENT MEMORY.pdf",
     "Paper/AgentMemoryPaper/Mem0- Building Production-Ready AI Agents with Scalable Long-Term Memory.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
