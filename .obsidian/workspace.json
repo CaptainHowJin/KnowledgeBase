@@ -15,7 +15,7 @@
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
                 "page": 7,
-                "left": 66,
+                "left": -86,
                 "top": 770,
                 "zoom": 1.52
               },
@@ -31,7 +31,7 @@
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "page": 6,
-                "left": 48,
+                "left": -122,
                 "top": 118,
                 "zoom": 1.39
               },
@@ -62,10 +62,10 @@
               "type": "pdf",
               "state": {
                 "file": "博士生科研入门辅导.pdf",
-                "page": 10,
-                "left": 43,
-                "top": 439,
-                "zoom": 0.78515625
+                "page": 12,
+                "left": -624,
+                "top": 63,
+                "zoom": 0.54
               },
               "icon": "lucide-file-text",
               "title": "博士生科研入门辅导"
@@ -95,9 +95,9 @@
               "state": {
                 "file": "Paper/MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
                 "page": 1,
-                "left": 26,
-                "top": 489,
-                "zoom": 2.05
+                "left": 118,
+                "top": 522,
+                "zoom": 1.8
               },
               "icon": "lucide-file-text",
               "title": "ArborMem- Navigating Interaction States with Memory Forests"
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -313,19 +313,19 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "8f1cdd8cf1afdaad",
+  "active": "b9f087e527672729",
   "lastOpenFiles": [
-    "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
-    "Paper/MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+    "博士生科研入门辅导.pdf",
+    "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
+    "Paper/MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
+    "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/EvoMemBench- Benchmarking Agent Memory from a Self-Evolving Perspective.pdf",
-    "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/AgentMemoryPaper/From Local to Global- A GraphRAG Approach to Query-Focused Summarization.pdf",
     "Paper/AgentMemoryPaper/ZEP- A TEMPORAL KNOWLEDGE GRAPH ARCHITECTURE FOR AGENT MEMORY.pdf",
-    "Paper/AgentMemoryPaper/Mem0- Building Production-Ready AI Agents with Scalable Long-Term Memory.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
