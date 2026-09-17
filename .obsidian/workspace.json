@@ -31,8 +31,8 @@
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "page": 6,
-                "left": -122,
-                "top": 118,
+                "left": -3,
+                "top": 154,
                 "zoom": 1.39
               },
               "icon": "lucide-file-text",
@@ -95,7 +95,7 @@
               "state": {
                 "file": "Paper/MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
                 "page": 1,
-                "left": 118,
+                "left": -25,
                 "top": 522,
                 "zoom": 1.8
               },
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -313,16 +313,16 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "b9f087e527672729",
+  "active": "8f1cdd8cf1afdaad",
   "lastOpenFiles": [
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "博士生科研入门辅导.pdf",
     "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
     "Paper/MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
     "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/EvoMemBench- Benchmarking Agent Memory from a Self-Evolving Perspective.pdf",
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/AgentMemoryPaper/From Local to Global- A GraphRAG Approach to Query-Focused Summarization.pdf",
     "Paper/AgentMemoryPaper/ZEP- A TEMPORAL KNOWLEDGE GRAPH ARCHITECTURE FOR AGENT MEMORY.pdf",
