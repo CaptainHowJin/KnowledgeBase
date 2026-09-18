@@ -93,14 +93,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
-                "page": 1,
-                "left": -25,
-                "top": 522,
-                "zoom": 1.8
+                "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
+                "page": 7,
+                "left": -8,
+                "top": 796,
+                "zoom": 1.8970588235294117
               },
               "icon": "lucide-file-text",
-              "title": "ArborMem- Navigating Interaction States with Memory Forests"
+              "title": "MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing"
             }
           },
           {
@@ -315,17 +315,17 @@
   },
   "active": "8f1cdd8cf1afdaad",
   "lastOpenFiles": [
+    "Paper/MPCPaper/Dynamic Memory Fores.pdf",
+    "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
+    "Paper/MPCPaper/DELTAMEM- Incremental Experience Memory for LLM Agents via Residual Trees.pdf",
+    "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
+    "Paper/MPCPaper/Collaborative Memory- Multi-User Memory Sharing in LLM Agents with Dynamic Access Control.pdf",
+    "Paper/MPCPaper/Beyond Dyadic Dialogue- A Comprehensive Survey of Multi-Party Dialogue Systems.pdf",
+    "Paper/MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "博士生科研入门辅导.pdf",
     "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
-    "Paper/MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
-    "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
-    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
-    "Paper/MPCPaper/EvoMemBench- Benchmarking Agent Memory from a Self-Evolving Perspective.pdf",
-    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
-    "Paper/AgentMemoryPaper/From Local to Global- A GraphRAG Approach to Query-Focused Summarization.pdf",
-    "Paper/AgentMemoryPaper/ZEP- A TEMPORAL KNOWLEDGE GRAPH ARCHITECTURE FOR AGENT MEMORY.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
