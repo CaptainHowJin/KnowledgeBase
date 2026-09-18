@@ -95,9 +95,9 @@
               "state": {
                 "file": "Paper/MPCPaper/MemORAI- Memory Organization and Retrieval via Adaptive Graph Intelligence for LLM Conversational Agents.pdf",
                 "page": 1,
-                "left": -8,
-                "top": 846,
-                "zoom": 1.9503558013425708
+                "left": -35,
+                "top": 842,
+                "zoom": 1.53
               },
               "icon": "lucide-file-text",
               "title": "MemORAI- Memory Organization and Retrieval via Adaptive Graph Intelligence for LLM Conversational Agents"
@@ -315,6 +315,9 @@
   },
   "active": "8f1cdd8cf1afdaad",
   "lastOpenFiles": [
+    "Paper/WWW/2025/RBDQ- A Reliable LLM-based Text-to-SQL System for Business Data Queries.pdf",
+    "Paper/WWW/2025",
+    "Paper/WWW/untitled folder",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/Dynamic Memory Fores.pdf",
     "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
@@ -323,9 +326,6 @@
     "Paper/MPCPaper/Collaborative Memory- Multi-User Memory Sharing in LLM Agents with Dynamic Access Control.pdf",
     "Paper/MPCPaper/Beyond Dyadic Dialogue- A Comprehensive Survey of Multi-Party Dialogue Systems.pdf",
     "Paper/MPCPaper/ArborMem- Navigating Interaction States with Memory Forests.pdf",
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "博士生科研入门辅导.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
