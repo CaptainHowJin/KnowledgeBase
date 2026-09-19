@@ -93,14 +93,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
+                "file": "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
                 "page": 1,
                 "left": -11,
-                "top": 796,
-                "zoom": 1.3970588235294117
+                "top": 846,
+                "zoom": 1.436308535872436
               },
               "icon": "lucide-file-text",
-              "title": "MemOS- A Memory OS for AI System"
+              "title": "LightRAG- Simple and Fast Retrieval-Augmented Generation"
             }
           },
           {
@@ -315,6 +315,7 @@
   },
   "active": "8f1cdd8cf1afdaad",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
     "Paper/WWW/2025/RBDQ- A Reliable LLM-based Text-to-SQL System for Business Data Queries.pdf",
     "Paper/MPCPaper/MemORAI- Memory Organization and Retrieval via Adaptive Graph Intelligence for LLM Conversational Agents.pdf",
     "Paper/WWW/2025",
@@ -325,7 +326,6 @@
     "Paper/MPCPaper/DELTAMEM- Incremental Experience Memory for LLM Agents via Residual Trees.pdf",
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Paper/MPCPaper/Collaborative Memory- Multi-User Memory Sharing in LLM Agents with Dynamic Access Control.pdf",
-    "Paper/MPCPaper/Beyond Dyadic Dialogue- A Comprehensive Survey of Multi-Party Dialogue Systems.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
