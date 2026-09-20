@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-                "page": 3,
-                "left": -86,
-                "top": 53,
+                "page": 6,
+                "left": 16,
+                "top": 96,
                 "zoom": 1.52
               },
               "icon": "lucide-file-text",
@@ -111,9 +111,9 @@
               "state": {
                 "file": "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
                 "page": 1,
-                "left": -8,
-                "top": 846,
-                "zoom": 1.9503558013425708
+                "left": 228,
+                "top": 351,
+                "zoom": 2.42
               },
               "icon": "lucide-file-text",
               "title": "MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents"
@@ -315,10 +315,10 @@
   },
   "active": "bddc6ebbd07c2495",
   "lastOpenFiles": [
-    "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
+    "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
+    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/WWW/2025/RBDQ- A Reliable LLM-based Text-to-SQL System for Business Data Queries.pdf",
     "Paper/MPCPaper/MemORAI- Memory Organization and Retrieval via Adaptive Graph Intelligence for LLM Conversational Agents.pdf",
     "Paper/WWW/2025",
