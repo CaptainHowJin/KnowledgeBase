@@ -109,14 +109,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
+                "file": "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
                 "page": 1,
-                "left": 228,
-                "top": 351,
-                "zoom": 2.42
+                "left": -8,
+                "top": 769,
+                "zoom": 1.9503558013425708
               },
               "icon": "lucide-file-text",
-              "title": "MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents"
+              "title": "LightRAG- Simple and Fast Retrieval-Augmented Generation"
             }
           }
         ],
@@ -315,8 +315,8 @@
   },
   "active": "bddc6ebbd07c2495",
   "lastOpenFiles": [
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
+    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
     "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/WWW/2025/RBDQ- A Reliable LLM-based Text-to-SQL System for Business Data Queries.pdf",
