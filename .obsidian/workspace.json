@@ -16,7 +16,7 @@
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
                 "page": 7,
                 "left": -86,
-                "top": 770,
+                "top": 774,
                 "zoom": 1.52
               },
               "icon": "lucide-file-text",
@@ -95,9 +95,9 @@
               "state": {
                 "file": "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
                 "page": 1,
-                "left": -11,
-                "top": 761,
-                "zoom": 1.436308535872436
+                "left": -8,
+                "top": 765,
+                "zoom": 1.9503558013425706
               },
               "icon": "lucide-file-text",
               "title": "LightRAG- Simple and Fast Retrieval-Augmented Generation"
@@ -119,8 +119,7 @@
               "title": "MemOS- A Memory OS for AI System"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -313,8 +312,9 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "8f1cdd8cf1afdaad",
+  "active": "c39e477fd7b0c6c1",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
     "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
     "Paper/WWW/2025/RBDQ- A Reliable LLM-based Text-to-SQL System for Business Data Queries.pdf",
@@ -325,7 +325,6 @@
     "Paper/MPCPaper/Dynamic Memory Fores.pdf",
     "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Paper/MPCPaper/DELTAMEM- Incremental Experience Memory for LLM Agents via Residual Trees.pdf",
-    "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
