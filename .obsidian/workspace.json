@@ -31,8 +31,8 @@
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "page": 6,
-                "left": -3,
-                "top": 154,
+                "left": -122,
+                "top": 158,
                 "zoom": 1.39
               },
               "icon": "lucide-file-text",
@@ -46,9 +46,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
-                "page": 1,
+                "page": 7,
                 "left": -91,
-                "top": 689,
+                "top": 477,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
@@ -78,9 +78,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
-                "page": 1,
-                "left": 69,
-                "top": 796,
+                "page": 2,
+                "left": -47,
+                "top": 695,
                 "zoom": 1.69
               },
               "icon": "lucide-file-text",
@@ -94,9 +94,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
-                "page": 1,
+                "page": 2,
                 "left": -8,
-                "top": 765,
+                "top": 396,
                 "zoom": 1.9503558013425706
               },
               "icon": "lucide-file-text",
@@ -109,18 +109,18 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
-                "page": 1,
+                "file": "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
+                "page": 2,
                 "left": -8,
-                "top": 449,
+                "top": 263,
                 "zoom": 1.9503558013425708
               },
               "icon": "lucide-file-text",
-              "title": "LightRAG- Simple and Fast Retrieval-Augmented Generation"
+              "title": "MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -313,9 +313,12 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "1e5b3581a79614cd",
+  "active": "bddc6ebbd07c2495",
   "lastOpenFiles": [
     "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
+    "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
@@ -323,9 +326,6 @@
     "Paper/MPCPaper/MemORAI- Memory Organization and Retrieval via Adaptive Graph Intelligence for LLM Conversational Agents.pdf",
     "Paper/WWW/2025",
     "Paper/WWW/untitled folder",
-    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
-    "Paper/MPCPaper/Dynamic Memory Fores.pdf",
-    "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
