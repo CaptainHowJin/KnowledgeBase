@@ -47,9 +47,9 @@
               "state": {
                 "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
                 "page": 1,
-                "left": 46,
-                "top": 602,
-                "zoom": 2.43
+                "left": -91,
+                "top": 689,
+                "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing"
@@ -112,7 +112,7 @@
                 "file": "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
                 "page": 1,
                 "left": -8,
-                "top": 769,
+                "top": 449,
                 "zoom": 1.9503558013425708
               },
               "icon": "lucide-file-text",
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -313,12 +313,12 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "bddc6ebbd07c2495",
+  "active": "1e5b3581a79614cd",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/AgentMemoryPaper/MemOS- A Memory OS for AI System.pdf",
-    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/WWW/2025/RBDQ- A Reliable LLM-based Text-to-SQL System for Business Data Queries.pdf",
     "Paper/MPCPaper/MemORAI- Memory Organization and Retrieval via Adaptive Graph Intelligence for LLM Conversational Agents.pdf",
     "Paper/WWW/2025",
