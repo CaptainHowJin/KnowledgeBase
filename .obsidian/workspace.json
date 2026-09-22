@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -313,8 +313,9 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "83615b9771acb41c",
+  "active": "1e5b3581a79614cd",
   "lastOpenFiles": [
+    "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Paper/AgentMemoryPaper/AutoViewMem- Self-Configuring Orthogonal Views for Conversational Long-Term Memory.pdf",
     "Paper/AgentMemoryPaper/Unconfirmed 331925.crdownload",
     "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
@@ -325,7 +326,6 @@
     "Paper/WWW/2026/Large Reasoning Embedding Models- Towards Next-Generation Dense Retrieval Paradigm.pdf",
     "Paper/WWW/2026/DG-MCTS- Dual-Guidance Monte Carlo Tree Search for Adaptive Emotional Support Dialogue Planning.pdf",
     "Paper/WWW/2025/RBDQ- A Reliable LLM-based Text-to-SQL System for Business Data Queries.pdf",
-    "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
