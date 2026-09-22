@@ -78,9 +78,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
-                "page": 1,
+                "page": 13,
                 "left": -8,
-                "top": 370,
+                "top": 237,
                 "zoom": 1.9503558013425708
               },
               "icon": "lucide-file-text",
@@ -315,6 +315,8 @@
   },
   "active": "83615b9771acb41c",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/AutoViewMem- Self-Configuring Orthogonal Views for Conversational Long-Term Memory.pdf",
+    "Paper/AgentMemoryPaper/Unconfirmed 331925.crdownload",
     "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
     "Paper/MPCPaper/GraftMind- Facilitating Group Ideation with AI-Mediated Idea Sharing.pdf",
     "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
@@ -324,8 +326,6 @@
     "Paper/WWW/2026/DG-MCTS- Dual-Guidance Monte Carlo Tree Search for Adaptive Emotional Support Dialogue Planning.pdf",
     "Paper/WWW/2025/RBDQ- A Reliable LLM-based Text-to-SQL System for Business Data Queries.pdf",
     "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
-    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
-    "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
