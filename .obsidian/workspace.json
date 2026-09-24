@@ -78,10 +78,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-                "page": 6,
-                "left": -11,
-                "top": 820,
-                "zoom": 1.4552073323970731
+                "page": 1,
+                "left": -8,
+                "top": 265,
+                "zoom": 1.9503558013425706
               },
               "icon": "lucide-file-text",
               "title": "TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents"
@@ -112,7 +112,7 @@
                 "file": "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
                 "page": 17,
                 "left": -8,
-                "top": 849,
+                "top": 844,
                 "zoom": 1.9503558013425708
               },
               "icon": "lucide-file-text",
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -313,10 +313,10 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "83615b9771acb41c",
+  "active": "bddc6ebbd07c2495",
   "lastOpenFiles": [
-    "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
+    "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
     "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
     "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
