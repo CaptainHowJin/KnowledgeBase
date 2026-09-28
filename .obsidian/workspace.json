@@ -109,14 +109,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
-                "page": 7,
-                "left": 21,
-                "top": 586,
-                "zoom": 2.25
+                "file": "Paper/AgentMemoryPaper/AutoViewMem- Self-Configuring Orthogonal Views for Conversational Long-Term Memory.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 796,
+                "zoom": 1.8970588235294117
               },
               "icon": "lucide-file-text",
-              "title": "MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents"
+              "title": "AutoViewMem- Self-Configuring Orthogonal Views for Conversational Long-Term Memory"
             }
           }
         ],
@@ -315,8 +315,8 @@
   },
   "active": "bddc6ebbd07c2495",
   "lastOpenFiles": [
-    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
+    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
