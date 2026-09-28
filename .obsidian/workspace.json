@@ -94,10 +94,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
-                "page": 2,
-                "left": -87,
-                "top": 382,
-                "zoom": 1.23
+                "page": 1,
+                "left": -144,
+                "top": 526,
+                "zoom": 1.35
               },
               "icon": "lucide-file-text",
               "title": "LightRAG- Simple and Fast Retrieval-Augmented Generation"
@@ -110,10 +110,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
-                "page": 17,
-                "left": -8,
-                "top": 844,
-                "zoom": 1.9503558013425708
+                "page": 7,
+                "left": 21,
+                "top": 586,
+                "zoom": 2.25
               },
               "icon": "lucide-file-text",
               "title": "MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents"
@@ -315,6 +315,8 @@
   },
   "active": "bddc6ebbd07c2495",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
+    "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
@@ -324,8 +326,6 @@
     "Paper/MPCPaper/Dynamic Memory Fores.pdf",
     "Paper/AgentMemoryPaper/AutoViewMem- Self-Configuring Orthogonal Views for Conversational Long-Term Memory.pdf",
     "Paper/AgentMemoryPaper/Unconfirmed 331925.crdownload",
-    "Paper/MPCPaper/GraftMind- Facilitating Group Ideation with AI-Mediated Idea Sharing.pdf",
-    "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
