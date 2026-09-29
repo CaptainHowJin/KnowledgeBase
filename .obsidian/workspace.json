@@ -109,14 +109,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/AgentMemoryPaper/AutoViewMem- Self-Configuring Orthogonal Views for Conversational Long-Term Memory.pdf",
+                "file": "Paper/AgentMemoryPaper/Not All Memories Are Equal- Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents.pdf",
                 "page": 1,
-                "left": 87,
-                "top": 472,
-                "zoom": 2.25
+                "left": -8,
+                "top": 741,
+                "zoom": 1.9503558013425708
               },
               "icon": "lucide-file-text",
-              "title": "AutoViewMem- Self-Configuring Orthogonal Views for Conversational Long-Term Memory"
+              "title": "Not All Memories Are Equal- Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents"
             }
           }
         ],
@@ -315,17 +315,17 @@
   },
   "active": "bddc6ebbd07c2495",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/AutoViewMem- Self-Configuring Orthogonal Views for Conversational Long-Term Memory.pdf",
+    "Paper/AgentMemoryPaper/Not All Memories Are Equal- Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "Paper/AgentMemoryPaper/AutoViewMem- Self-Configuring Orthogonal Views for Conversational Long-Term Memory.pdf",
     "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
     "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Paper/MPCPaper/FROM ISOLATED CONVERSATIONS TO HIERARCHICAL.pdf",
     "Paper/MPCPaper/DTCRS- Dynamic Tree Construction for Recursive Summarization.pdf",
-    "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
