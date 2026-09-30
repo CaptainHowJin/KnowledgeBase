@@ -63,8 +63,8 @@
               "state": {
                 "file": "博士生科研入门辅导.pdf",
                 "page": 12,
-                "left": -624,
-                "top": 63,
+                "left": -351,
+                "top": 271,
                 "zoom": 0.54
               },
               "icon": "lucide-file-text",
@@ -109,18 +109,18 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/AgentMemoryPaper/Not All Memories Are Equal- Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents.pdf",
-                "page": 2,
-                "left": -51,
-                "top": 377,
-                "zoom": 1.71
+                "file": "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
+                "page": 1,
+                "left": 55,
+                "top": 640,
+                "zoom": 1.6
               },
               "icon": "lucide-file-text",
-              "title": "Not All Memories Are Equal- Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents"
+              "title": "REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -313,12 +313,12 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "2a5edb25063b24df",
+  "active": "95672a5e84b54ed7",
   "lastOpenFiles": [
     "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
+    "Paper/AgentMemoryPaper/Not All Memories Are Equal- Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents.pdf",
     "Paper/AgentMemoryPaper/Unconfirmed 409348.crdownload",
     "Paper/AgentMemoryPaper/AutoViewMem- Self-Configuring Orthogonal Views for Conversational Long-Term Memory.pdf",
-    "Paper/AgentMemoryPaper/Not All Memories Are Equal- Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
