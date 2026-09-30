@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "95672a5e84b54ed7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "博士生科研入门辅导.pdf",
-                "page": 12,
-                "left": -351,
-                "top": 271,
-                "zoom": 0.54
-              },
-              "icon": "lucide-file-text",
-              "title": "博士生科研入门辅导"
-            }
-          },
-          {
             "id": "83615b9771acb41c",
             "type": "leaf",
             "state": {
@@ -79,9 +63,9 @@
               "state": {
                 "file": "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
                 "page": 1,
-                "left": -8,
-                "top": 265,
-                "zoom": 1.9503558013425706
+                "left": -11,
+                "top": 269,
+                "zoom": 1.4552073323970731
               },
               "icon": "lucide-file-text",
               "title": "TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents"
@@ -93,34 +77,18 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
-                "page": 1,
-                "left": -144,
-                "top": 526,
-                "zoom": 1.35
-              },
-              "icon": "lucide-file-text",
-              "title": "LightRAG- Simple and Fast Retrieval-Augmented Generation"
-            }
-          },
-          {
-            "id": "bddc6ebbd07c2495",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
                 "file": "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
                 "page": 1,
-                "left": 55,
-                "top": 640,
-                "zoom": 1.6
+                "left": -11,
+                "top": 796,
+                "zoom": 1.4154411764705883
               },
               "icon": "lucide-file-text",
               "title": "REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -313,9 +281,12 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "95672a5e84b54ed7",
+  "active": "8f1cdd8cf1afdaad",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
     "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
+    "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
+    "博士生科研入门辅导.pdf",
     "Paper/AgentMemoryPaper/Not All Memories Are Equal- Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents.pdf",
     "Paper/AgentMemoryPaper/Unconfirmed 409348.crdownload",
     "Paper/AgentMemoryPaper/AutoViewMem- Self-Configuring Orthogonal Views for Conversational Long-Term Memory.pdf",
@@ -323,9 +294,6 @@
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
-    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
-    "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-    "Paper/MPCPaper/Context-Agent- Dynamic Discourse Trees for Non-Linear Dialogue.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
