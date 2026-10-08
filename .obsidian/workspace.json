@@ -47,8 +47,8 @@
               "state": {
                 "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
                 "page": 5,
-                "left": -4,
-                "top": 580,
+                "left": -91,
+                "top": 652,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
@@ -63,9 +63,9 @@
               "state": {
                 "file": "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
                 "page": 1,
-                "left": -11,
-                "top": 269,
-                "zoom": 1.4552073323970731
+                "left": -131,
+                "top": 707,
+                "zoom": 1.39
               },
               "icon": "lucide-file-text",
               "title": "TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents"
@@ -78,9 +78,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
-                "page": 1,
-                "left": 89,
-                "top": 325,
+                "page": 3,
+                "left": 29,
+                "top": 409,
                 "zoom": 2.03
               },
               "icon": "lucide-file-text",
@@ -94,9 +94,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/AgentMemoryPaper/Capability-Driven Self-Evolution of Agent Memory.pdf",
-                "page": 1,
+                "page": 4,
                 "left": -8,
-                "top": 695,
+                "top": 94,
                 "zoom": 1.8970588235294117
               },
               "icon": "lucide-file-text",
@@ -299,17 +299,17 @@
   },
   "active": "b6e20c0c26c9db7e",
   "lastOpenFiles": [
-    "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
-    "Paper/AgentMemoryPaper/Capability-Driven Self-Evolution of Agent Memory.pdf",
-    "Paper/WWW/2026/GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale Recommendations.pdf",
-    "Paper/WWW/2025/RBDQ- A Reliable LLM-based Text-to-SQL System for Business Data Queries.pdf",
+    "Paper/MPCPaper/T-Retriever- Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs.pdf",
+    "Paper/MPCPaper/DELTAMEM- Incremental Experience Memory for LLM Agents via Residual Trees.pdf",
+    "Paper/WWW/2026/When Agents Trade- Live Multi-Market Trading Arena for LLM Agents.pdf",
+    "Paper/WWW/2026/Large Reasoning Embedding Models- Towards Next-Generation Dense Retrieval Paradigm.pdf",
     "Paper/WWW/2026/DG-MCTS- Dual-Guidance Monte Carlo Tree Search for Adaptive Emotional Support Dialogue Planning.pdf",
+    "Paper/WWW/2025/RBDQ- A Reliable LLM-based Text-to-SQL System for Business Data Queries.pdf",
+    "Paper/AgentMemoryPaper/Capability-Driven Self-Evolution of Agent Memory.pdf",
     "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
-    "Paper/AgentMemoryPaper/LightRAG- Simple and Fast Retrieval-Augmented Generation.pdf",
+    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-    "博士生科研入门辅导.pdf",
-    "Paper/AgentMemoryPaper/Not All Memories Are Equal- Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents.pdf",
-    "Paper/AgentMemoryPaper/Unconfirmed 409348.crdownload",
+    "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
