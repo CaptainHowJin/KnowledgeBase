@@ -31,8 +31,8 @@
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "page": 5,
-                "left": 85,
-                "top": 570,
+                "left": -6,
+                "top": 574,
                 "zoom": 1.91
               },
               "icon": "lucide-file-text",
@@ -95,9 +95,9 @@
               "state": {
                 "file": "Paper/AgentMemoryPaper/Capability-Driven Self-Evolution of Agent Memory.pdf",
                 "page": 1,
-                "left": -13,
-                "top": 684,
-                "zoom": 1.1262254901960784
+                "left": -53,
+                "top": 6,
+                "zoom": 1.66
               },
               "icon": "lucide-file-text",
               "title": "Capability-Driven Self-Evolution of Agent Memory"
@@ -299,17 +299,17 @@
   },
   "active": "b6e20c0c26c9db7e",
   "lastOpenFiles": [
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "Paper/AgentMemoryPaper/Capability-Driven Self-Evolution of Agent Memory.pdf",
     "Paper/MPCPaper/T-Retriever- Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs.pdf",
     "Paper/MPCPaper/DELTAMEM- Incremental Experience Memory for LLM Agents via Residual Trees.pdf",
     "Paper/WWW/2026/When Agents Trade- Live Multi-Market Trading Arena for LLM Agents.pdf",
     "Paper/WWW/2026/Large Reasoning Embedding Models- Towards Next-Generation Dense Retrieval Paradigm.pdf",
     "Paper/WWW/2026/DG-MCTS- Dual-Guidance Monte Carlo Tree Search for Adaptive Emotional Support Dialogue Planning.pdf",
     "Paper/WWW/2025/RBDQ- A Reliable LLM-based Text-to-SQL System for Business Data Queries.pdf",
-    "Paper/AgentMemoryPaper/Capability-Driven Self-Evolution of Agent Memory.pdf",
     "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-    "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
