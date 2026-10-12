@@ -94,10 +94,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/AgentMemoryPaper/REMORY- LEARNING RESIDUAL MEMORY FOR CONTEXT COMPACTION.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 796,
-                "zoom": 1.8970588235294117
+                "page": 3,
+                "left": -132,
+                "top": 747,
+                "zoom": 1.36
               },
               "icon": "lucide-file-text",
               "title": "REMORY- LEARNING RESIDUAL MEMORY FOR CONTEXT COMPACTION"
@@ -297,8 +297,12 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "b6e20c0c26c9db7e",
+  "active": "2a5edb25063b24df",
   "lastOpenFiles": [
+    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
+    "Paper/MPCPaper/Unconfirmed 104241.crdownload",
+    "Paper/MPCPaper/2609.26780v2.pdf",
+    "Paper/MPCPaper/Unconfirmed 166325.crdownload",
     "Paper/AgentMemoryPaper/Capability-Driven Self-Evolution of Agent Memory.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
@@ -306,10 +310,6 @@
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/T-Retriever- Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs.pdf",
     "Paper/MPCPaper/DELTAMEM- Incremental Experience Memory for LLM Agents via Residual Trees.pdf",
-    "Paper/WWW/2026/When Agents Trade- Live Multi-Market Trading Arena for LLM Agents.pdf",
-    "Paper/WWW/2026/Large Reasoning Embedding Models- Towards Next-Generation Dense Retrieval Paradigm.pdf",
-    "Paper/WWW/2026/DG-MCTS- Dual-Guidance Monte Carlo Tree Search for Adaptive Emotional Support Dialogue Planning.pdf",
-    "Paper/WWW/2025/RBDQ- A Reliable LLM-based Text-to-SQL System for Business Data Queries.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
