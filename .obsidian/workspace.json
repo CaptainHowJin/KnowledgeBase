@@ -32,7 +32,7 @@
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "page": 5,
                 "left": -6,
-                "top": 574,
+                "top": 626,
                 "zoom": 1.91
               },
               "icon": "lucide-file-text",
@@ -94,9 +94,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
-                "page": 1,
+                "page": 3,
                 "left": -8,
-                "top": 760,
+                "top": 227,
                 "zoom": 1.8970588235294117
               },
               "icon": "lucide-file-text",
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -297,10 +297,10 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "b6e20c0c26c9db7e",
+  "active": "b9f087e527672729",
   "lastOpenFiles": [
-    "Paper/AgentMemoryPaper/REMORY- LEARNING RESIDUAL MEMORY FOR CONTEXT COMPACTION.pdf",
     "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
+    "Paper/AgentMemoryPaper/REMORY- LEARNING RESIDUAL MEMORY FOR CONTEXT COMPACTION.pdf",
     "Paper/MPCPaper/Unconfirmed 104241.crdownload",
     "Paper/MPCPaper/2609.26780v2.pdf",
     "Paper/MPCPaper/Unconfirmed 166325.crdownload",
