@@ -30,9 +30,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-                "page": 5,
+                "page": 6,
                 "left": -6,
-                "top": 626,
+                "top": 86,
                 "zoom": 1.91
               },
               "icon": "lucide-file-text",
@@ -96,7 +96,7 @@
                 "file": "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
                 "page": 3,
                 "left": -8,
-                "top": 227,
+                "top": 233,
                 "zoom": 1.8970588235294117
               },
               "icon": "lucide-file-text",
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -297,8 +297,9 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "b9f087e527672729",
+  "active": "b6e20c0c26c9db7e",
   "lastOpenFiles": [
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/AgentMemoryPaper/REMORY- LEARNING RESIDUAL MEMORY FOR CONTEXT COMPACTION.pdf",
     "Paper/MPCPaper/Unconfirmed 104241.crdownload",
@@ -307,7 +308,6 @@
     "Paper/AgentMemoryPaper/Capability-Driven Self-Evolution of Agent Memory.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/T-Retriever- Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs.pdf",
     "Paper/MPCPaper/DELTAMEM- Incremental Experience Memory for LLM Agents via Residual Trees.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
