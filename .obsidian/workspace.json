@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-                "page": 1,
+                "page": 10,
                 "left": -86,
-                "top": 690,
+                "top": 355,
                 "zoom": 1.52
               },
               "icon": "lucide-file-text",
@@ -32,7 +32,7 @@
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "page": 6,
                 "left": -6,
-                "top": 86,
+                "top": 511,
                 "zoom": 1.91
               },
               "icon": "lucide-file-text",
@@ -94,17 +94,16 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
-                "page": 4,
-                "left": -13,
-                "top": 487,
-                "zoom": 1.1262254901960784
+                "page": 1,
+                "left": 66,
+                "top": 421,
+                "zoom": 2.18
               },
               "icon": "lucide-file-text",
               "title": "SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,16 +296,16 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "b6e20c0c26c9db7e",
+  "active": "c39e477fd7b0c6c1",
   "lastOpenFiles": [
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/AgentMemoryPaper/REMORY- LEARNING RESIDUAL MEMORY FOR CONTEXT COMPACTION.pdf",
     "Paper/MPCPaper/Unconfirmed 104241.crdownload",
     "Paper/MPCPaper/2609.26780v2.pdf",
     "Paper/MPCPaper/Unconfirmed 166325.crdownload",
     "Paper/AgentMemoryPaper/Capability-Driven Self-Evolution of Agent Memory.pdf",
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
     "Paper/MPCPaper/T-Retriever- Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs.pdf",
     "Paper/MPCPaper/DELTAMEM- Incremental Experience Memory for LLM Agents via Residual Trees.pdf",
