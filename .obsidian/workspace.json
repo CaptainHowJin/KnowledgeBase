@@ -93,14 +93,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
-                "page": 1,
-                "left": 66,
-                "top": 421,
-                "zoom": 2.18
+                "file": "Paper/WWW/2026/Large Reasoning Embedding Models- Towards Next-Generation Dense Retrieval Paradigm.pdf",
+                "page": 3,
+                "left": -8,
+                "top": 138,
+                "zoom": 1.8970588235294117
               },
               "icon": "lucide-file-text",
-              "title": "SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE"
+              "title": "Large Reasoning Embedding Models- Towards Next-Generation Dense Retrieval Paradigm"
             }
           }
         ],
@@ -299,9 +299,9 @@
   },
   "active": "b6e20c0c26c9db7e",
   "lastOpenFiles": [
+    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/AgentMemoryPaper/REMORY- LEARNING RESIDUAL MEMORY FOR CONTEXT COMPACTION.pdf",
     "Paper/MPCPaper/Unconfirmed 104241.crdownload",
     "Paper/MPCPaper/2609.26780v2.pdf",
