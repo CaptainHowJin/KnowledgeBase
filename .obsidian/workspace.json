@@ -6,6 +6,7 @@
       {
         "id": "fc4d533666db248b",
         "type": "tabs",
+        "dimension": 61.7056856187291,
         "children": [
           {
             "id": "c39e477fd7b0c6c1",
@@ -79,7 +80,7 @@
               "state": {
                 "file": "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
                 "page": 1,
-                "left": -4,
+                "left": 75,
                 "top": 796,
                 "zoom": 2.03
               },
@@ -93,18 +94,39 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
+                "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
                 "page": 1,
-                "left": -19,
-                "top": 714,
-                "zoom": 0.8174019607843137
+                "left": -18,
+                "top": 796,
+                "zoom": 0.8553921568627451
               },
               "icon": "lucide-file-text",
-              "title": "SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE"
+              "title": "MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing"
             }
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "27ad113363ffe858",
+        "type": "tabs",
+        "dimension": 38.29431438127091,
+        "children": [
+          {
+            "id": "56ce96aa4b6b327a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -299,24 +321,23 @@
   },
   "active": "b6e20c0c26c9db7e",
   "lastOpenFiles": [
+    "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
+    "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
+    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
+    "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/WWW/2026/Large Reasoning Embedding Models- Towards Next-Generation Dense Retrieval Paradigm.pdf",
     "Paper/MPCPaper/SocialMemBench- Are AI Memory Systems Ready for Social Group Settings?.pdf",
     "Paper/AgentMemoryPaper/REMORY- LEARNING RESIDUAL MEMORY FOR CONTEXT COMPACTION.pdf",
     "Paper/MPCPaper/Unconfirmed 104241.crdownload",
     "Paper/MPCPaper/2609.26780v2.pdf",
-    "Paper/MPCPaper/Unconfirmed 166325.crdownload",
-    "Paper/AgentMemoryPaper/Capability-Driven Self-Evolution of Agent Memory.pdf",
-    "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Note/MPCNote/RippleMem From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.md",
     "Note/MPCNote/T-Retriever.md",
-    "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
     "Note/WWWNote/GRank Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.md",
     "Note/KnowledgeGraphNote/AutoSchemaKG Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora.md",
     "Note/MPCNote/Retrieval Pipeline.md",
