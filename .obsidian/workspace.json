@@ -78,10 +78,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
-                "page": 6,
-                "left": -11,
-                "top": 77,
-                "zoom": 1.4154411764705883
+                "page": 8,
+                "left": -8,
+                "top": 101,
+                "zoom": 1.897058823529412
               },
               "icon": "lucide-file-text",
               "title": "SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE"
@@ -299,6 +299,8 @@
   },
   "active": "8f1cdd8cf1afdaad",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/ALL-IN-ONE MEMORY- PROCESS-REWARDED REINFORCEMENT LEARNING FOR MEMORY AGENTS.pdf",
+    "Paper/AgentMemoryPaper/Unconfirmed 927267.crdownload",
     "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
     "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
@@ -309,8 +311,6 @@
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/WWW/2026/Large Reasoning Embedding Models- Towards Next-Generation Dense Retrieval Paradigm.pdf",
     "Paper/MPCPaper/SocialMemBench- Are AI Memory Systems Ready for Social Group Settings?.pdf",
-    "Paper/AgentMemoryPaper/REMORY- LEARNING RESIDUAL MEMORY FOR CONTEXT COMPACTION.pdf",
-    "Paper/MPCPaper/Unconfirmed 104241.crdownload",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
