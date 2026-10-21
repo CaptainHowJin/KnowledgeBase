@@ -94,10 +94,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
-                "page": 3,
-                "left": -11,
-                "top": 58,
-                "zoom": 1.4552073323970731
+                "page": 4,
+                "left": -8,
+                "top": 483,
+                "zoom": 1.9503558013425708
               },
               "icon": "lucide-file-text",
               "title": "PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents"
@@ -299,6 +299,7 @@
   },
   "active": "b6e20c0c26c9db7e",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/WHEN TO FORGET- RISK-CONTROLLED CONTEXT ADAPTATION FOR LONG-HORIZON AGENTS.pdf",
     "Paper/Beauty/Data World- Scaling Data Environments from Scratch.pdf",
     "Paper/AgentMemoryPaper/From Local to Global- A GraphRAG Approach to Query-Focused Summarization.pdf",
     "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
@@ -309,7 +310,6 @@
     "Paper/AgentMemoryPaper/ALL-IN-ONE MEMORY- PROCESS-REWARDED REINFORCEMENT LEARNING FOR MEMORY AGENTS.pdf",
     "Paper/AgentMemoryPaper/Unconfirmed 927267.crdownload",
     "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
-    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
