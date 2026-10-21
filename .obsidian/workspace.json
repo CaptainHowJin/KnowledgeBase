@@ -77,14 +77,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
-                "page": 8,
-                "left": -8,
-                "top": 101,
-                "zoom": 1.897058823529412
+                "file": "Paper/Beauty/Data World- Scaling Data Environments from Scratch.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 846,
+                "zoom": 1.4552073323970731
               },
               "icon": "lucide-file-text",
-              "title": "SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE"
+              "title": "Data World- Scaling Data Environments from Scratch"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -297,20 +297,20 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "8f1cdd8cf1afdaad",
+  "active": "b6e20c0c26c9db7e",
   "lastOpenFiles": [
-    "Paper/AgentMemoryPaper/Data World- Scaling Data Environments from Scratch.pdf",
+    "Paper/Beauty/Data World- Scaling Data Environments from Scratch.pdf",
+    "Paper/AgentMemoryPaper/From Local to Global- A GraphRAG Approach to Query-Focused Summarization.pdf",
+    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
+    "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
+    "Paper/Beauty",
+    "Paper/untitled folder",
     "Paper/AgentMemoryPaper/Unconfirmed 568692.crdownload",
     "Paper/AgentMemoryPaper/ALL-IN-ONE MEMORY- PROCESS-REWARDED REINFORCEMENT LEARNING FOR MEMORY AGENTS.pdf",
     "Paper/AgentMemoryPaper/Unconfirmed 927267.crdownload",
     "Paper/AgentMemoryPaper/REMEM- REASONING WITH EPISODIC MEMORY IN LANGUAGE AGENTS.pdf",
-    "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
-    "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
-    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
