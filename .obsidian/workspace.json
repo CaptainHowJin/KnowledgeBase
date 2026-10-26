@@ -94,10 +94,8 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
-                "page": 4,
-                "left": -8,
-                "top": 483,
-                "zoom": 1.9503558013425708
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents"
