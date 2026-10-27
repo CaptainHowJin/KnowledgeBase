@@ -47,8 +47,8 @@
               "state": {
                 "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
                 "page": 5,
-                "left": 18,
-                "top": 721,
+                "left": 14,
+                "top": 725,
                 "zoom": 1.88
               },
               "icon": "lucide-file-text",
@@ -62,10 +62,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-                "page": 2,
-                "left": -84,
-                "top": 66,
-                "zoom": 1.12
+                "page": 1,
+                "left": 19,
+                "top": 726,
+                "zoom": 1.58
               },
               "icon": "lucide-file-text",
               "title": "TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents"
@@ -80,7 +80,7 @@
                 "file": "Paper/Beauty/Data World- Scaling Data Environments from Scratch.pdf",
                 "page": 1,
                 "left": -11,
-                "top": 846,
+                "top": 431,
                 "zoom": 1.4552073323970731
               },
               "icon": "lucide-file-text",
@@ -95,14 +95,16 @@
               "state": {
                 "file": "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
                 "page": 1,
-                "zoom": 1
+                "left": 32,
+                "top": 846,
+                "zoom": 1.55
               },
               "icon": "lucide-file-text",
               "title": "PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,19 +297,19 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "b6e20c0c26c9db7e",
+  "active": "83615b9771acb41c",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/RoleFlow- Self-Evolving Multi-Role Agentic Collaboration via Structural Adaptation.pdf",
+    "Paper/AgentMemoryPaper/WHEN IS A MEMORY SAFE ENOUGH TO ACT ON? ACTION-CONDITIONED VERIFICATION FOR LONG-LIVED AGENTS.pdf",
+    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
+    "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
+    "Paper/Beauty/Data World- Scaling Data Environments from Scratch.pdf",
+    "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
+    "Paper/AgentMemoryPaper/Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought.pdf",
+    "Paper/AgentMemoryPaper/RIPPLE- Recovery Internalization through Process-Level Policy Learning and Effect-Aware Credit for Long-Horizon Agentic Coding.pdf",
     "Paper/AgentMemoryPaper/PreCoMem- Predictive Cognitive Memory for Self-Evolving Long-Term Dialogue Agents.pdf",
     "Paper/AgentMemoryPaper/Unconfirmed 524316.crdownload",
     "Paper/AgentMemoryPaper/WHEN TO FORGET- RISK-CONTROLLED CONTEXT ADAPTATION FOR LONG-HORIZON AGENTS.pdf",
-    "Paper/Beauty/Data World- Scaling Data Environments from Scratch.pdf",
-    "Paper/AgentMemoryPaper/From Local to Global- A GraphRAG Approach to Query-Focused Summarization.pdf",
-    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
-    "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
-    "Paper/Beauty",
-    "Paper/untitled folder",
-    "Paper/AgentMemoryPaper/Unconfirmed 568692.crdownload",
-    "Paper/AgentMemoryPaper/ALL-IN-ONE MEMORY- PROCESS-REWARDED REINFORCEMENT LEARNING FOR MEMORY AGENTS.pdf",
     "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
