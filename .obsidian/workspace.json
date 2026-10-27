@@ -62,10 +62,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-                "page": 1,
-                "left": 19,
-                "top": 726,
-                "zoom": 1.58
+                "page": 3,
+                "left": -3,
+                "top": 537,
+                "zoom": 1.51
               },
               "icon": "lucide-file-text",
               "title": "TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents"
@@ -297,7 +297,7 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "83615b9771acb41c",
+  "active": "2a5edb25063b24df",
   "lastOpenFiles": [
     "Paper/AgentMemoryPaper/RoleFlow- Self-Evolving Multi-Role Agentic Collaboration via Structural Adaptation.pdf",
     "Paper/AgentMemoryPaper/WHEN IS A MEMORY SAFE ENOUGH TO ACT ON? ACTION-CONDITIONED VERIFICATION FOR LONG-LIVED AGENTS.pdf",
