@@ -103,9 +103,25 @@
               "icon": "lucide-file-text",
               "title": "PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents"
             }
+          },
+          {
+            "id": "f28937b0f8a423b5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 796,
+                "zoom": 1.3174019607843137
+              },
+              "icon": "lucide-file-text",
+              "title": "Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "a30ec93143fce42e",
@@ -319,8 +335,9 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "b6e20c0c26c9db7e",
+  "active": "f28937b0f8a423b5",
   "lastOpenFiles": [
+    "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/ICDE",
     "Paper/Beauty/Data World- Scaling Data Environments from Scratch.pdf",
@@ -329,7 +346,6 @@
     "Paper/AgentMemoryPaper/RoleFlow- Self-Evolving Multi-Role Agentic Collaboration via Structural Adaptation.pdf",
     "Paper/AgentMemoryPaper/WHEN IS A MEMORY SAFE ENOUGH TO ACT ON? ACTION-CONDITIONED VERIFICATION FOR LONG-LIVED AGENTS.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
-    "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Paper/AgentMemoryPaper/Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought.pdf",
     "Paper/AgentMemoryPaper/RIPPLE- Recovery Internalization through Process-Level Policy Learning and Effect-Aware Credit for Long-Horizon Agentic Coding.pdf",
     "Paper/AgentMemoryPaper/PreCoMem- Predictive Cognitive Memory for Self-Evolving Long-Term Dialogue Agents.pdf",
