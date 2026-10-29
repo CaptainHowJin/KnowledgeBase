@@ -96,9 +96,9 @@
               "state": {
                 "file": "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
                 "page": 1,
-                "left": 22,
-                "top": 696,
-                "zoom": 2.36
+                "left": 56,
+                "top": 846,
+                "zoom": 2
               },
               "icon": "lucide-file-text",
               "title": "PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents"
@@ -111,17 +111,17 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
-                "page": 1,
+                "page": 9,
                 "left": 10,
-                "top": 430,
-                "zoom": 1.53
+                "top": 529,
+                "zoom": 1.38
               },
               "icon": "lucide-file-text",
               "title": "Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "a30ec93143fce42e",
@@ -335,12 +335,12 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "f28937b0f8a423b5",
+  "active": "b6e20c0c26c9db7e",
   "lastOpenFiles": [
+    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
+    "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Paper/AgentMemoryPaper/Clearing the FoG- Training KG Agents to Retrieve the Evidence Behind Their Answers.pdf",
     "Paper/AgentMemoryPaper/REMEMBERING IS NOT ENOUGH- REFINING MEMORIES AND LEARNING WHEN TO USE THEM IN MULTI-AGENT SYSTEMS.pdf",
-    "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
-    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/ICDE",
     "Paper/Beauty/Data World- Scaling Data Environments from Scratch.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
