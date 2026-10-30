@@ -96,9 +96,9 @@
               "state": {
                 "file": "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
                 "page": 1,
-                "left": 56,
-                "top": 846,
-                "zoom": 2
+                "left": 70,
+                "top": 817,
+                "zoom": 1.74
               },
               "icon": "lucide-file-text",
               "title": "PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents"
@@ -337,6 +337,8 @@
   },
   "active": "b6e20c0c26c9db7e",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
+    "Paper/AgentMemoryPaper/Unconfirmed 2915.crdownload",
     "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Paper/AgentMemoryPaper/Clearing the FoG- Training KG Agents to Retrieve the Evidence Behind Their Answers.pdf",
@@ -347,8 +349,6 @@
     "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
     "Paper/AgentMemoryPaper/RoleFlow- Self-Evolving Multi-Role Agentic Collaboration via Structural Adaptation.pdf",
     "Paper/AgentMemoryPaper/WHEN IS A MEMORY SAFE ENOUGH TO ACT ON? ACTION-CONDITIONED VERIFICATION FOR LONG-LIVED AGENTS.pdf",
-    "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
-    "Paper/AgentMemoryPaper/Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought.pdf",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/MemoTime Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning.md",
