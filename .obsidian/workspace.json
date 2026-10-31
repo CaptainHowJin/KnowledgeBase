@@ -96,9 +96,9 @@
               "state": {
                 "file": "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
                 "page": 1,
-                "left": 70,
-                "top": 817,
-                "zoom": 1.74
+                "left": 59,
+                "top": 821,
+                "zoom": 1.75
               },
               "icon": "lucide-file-text",
               "title": "PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents"
@@ -337,10 +337,10 @@
   },
   "active": "b6e20c0c26c9db7e",
   "lastOpenFiles": [
-    "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
-    "Paper/AgentMemoryPaper/Unconfirmed 2915.crdownload",
     "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
+    "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
+    "Paper/AgentMemoryPaper/Unconfirmed 2915.crdownload",
     "Paper/AgentMemoryPaper/Clearing the FoG- Training KG Agents to Retrieve the Evidence Behind Their Answers.pdf",
     "Paper/AgentMemoryPaper/REMEMBERING IS NOT ENOUGH- REFINING MEMORIES AND LEARNING WHEN TO USE THEM IN MULTI-AGENT SYSTEMS.pdf",
     "Paper/ICDE",
