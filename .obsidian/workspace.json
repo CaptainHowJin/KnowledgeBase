@@ -78,10 +78,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-                "page": 2,
-                "left": -11,
-                "top": 739,
-                "zoom": 1.4552073323970731
+                "page": 3,
+                "left": -8,
+                "top": 834,
+                "zoom": 1.9503558013425708
               },
               "icon": "lucide-file-text",
               "title": "TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents"
@@ -95,8 +95,8 @@
               "state": {
                 "file": "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
                 "page": 1,
-                "left": 73,
-                "top": 508,
+                "left": -43,
+                "top": 512,
                 "zoom": 1.75
               },
               "icon": "lucide-file-text",
@@ -111,8 +111,8 @@
               "state": {
                 "file": "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
                 "page": 10,
-                "left": 62,
-                "top": 647,
+                "left": -62,
+                "top": 785,
                 "zoom": 1.62
               },
               "icon": "lucide-file-text",
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -313,19 +313,19 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "8f1cdd8cf1afdaad",
+  "active": "f28937b0f8a423b5",
   "lastOpenFiles": [
-    "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
+    "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
+    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
+    "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Paper/MPCPaper/T-Retriever- Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs.pdf",
     "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/MPCPaper/SocialMemBench- Are AI Memory Systems Ready for Social Group Settings?.pdf",
     "Paper/MPCPaper/SIRERAG- INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING.pdf",
     "Paper/MPCPaper/RippleMem- From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.pdf",
-    "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Paper/MPCPaper/Multi-User Large Language Model Agents.pdf",
     "Paper/MPCPaper/Multi-Party Conversational Agents- A Survey.pdf",
-    "Paper/MPCPaper/MPCEval- A Benchmark for Multi-Party Conversation Generation.pdf",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
