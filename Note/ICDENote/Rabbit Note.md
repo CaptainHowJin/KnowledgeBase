@@ -15,3 +15,8 @@
 > 
 > 为了解决上述问题， 前面是一些动机
 
+> [!PDF|yellow] [[Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf#page=4&selection=203,0,207,24&color=yellow|📖]]
+> > B. Dynamic Experience Relying solely on static knowledge is insufficient, as different workloads and environments might require distinctive optimal configurations. 
+> 
+> 开头可以阐明动机 理由
+
