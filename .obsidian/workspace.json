@@ -62,10 +62,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-                "page": 3,
-                "left": -11,
-                "top": 842,
-                "zoom": 1.4552073323970731
+                "page": 2,
+                "left": -8,
+                "top": 20,
+                "zoom": 1.47
               },
               "icon": "lucide-file-text",
               "title": "TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents"
@@ -78,10 +78,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
-                "page": 2,
-                "left": -11,
-                "top": 276,
-                "zoom": 1.4154411764705883
+                "page": 5,
+                "left": 45,
+                "top": 652,
+                "zoom": 1.57
               },
               "icon": "lucide-file-text",
               "title": "A-Mem- Agentic Memory for LLM Agents"
@@ -111,16 +111,16 @@
               "state": {
                 "file": "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
                 "page": 1,
-                "left": -4,
-                "top": 695,
-                "zoom": 1.91
+                "left": 3,
+                "top": 648,
+                "zoom": 2.15
               },
               "icon": "lucide-file-text",
               "title": "Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -313,11 +313,11 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "83615b9771acb41c",
+  "active": "f28937b0f8a423b5",
   "lastOpenFiles": [
     "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
-    "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
+    "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Paper/MPCPaper/Temporal Order Matters for Agentic Memory- Segment Trees for Memory Construction and Retrieval.pdf",
     "Paper/MPCPaper/T-Retriever- Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs.pdf",
