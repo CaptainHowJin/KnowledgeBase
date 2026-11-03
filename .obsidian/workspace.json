@@ -110,14 +110,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
-                "page": 5,
+                "file": "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
+                "page": 4,
                 "left": -11,
-                "top": 550,
+                "top": 668,
                 "zoom": 1.3541666666666667
               },
               "icon": "lucide-file-text",
-              "title": "DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence"
+              "title": "Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning"
             }
           }
         ],
@@ -337,8 +337,8 @@
   },
   "active": "cbcf5267b11ce8aa",
   "lastOpenFiles": [
-    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
+    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Note/ICDENote/Rabbit Note.md",
     "Paper/ICDE/Chat2DBChatting to the Database with Interactive Agent Assisted Language Models.pdf",
     "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
