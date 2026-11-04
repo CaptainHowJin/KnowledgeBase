@@ -124,16 +124,14 @@
             "id": "e840dca75043261b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
-                "page": 4,
-                "left": -11,
-                "top": 699,
-                "zoom": 1.3541666666666667
+                "file": "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE"
+              "icon": "lucide-file",
+              "title": "Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval"
             }
           }
         ],
@@ -351,8 +349,9 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "e840dca75043261b",
+  "active": "2a5edb25063b24df",
   "lastOpenFiles": [
+    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
     "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/AgentMemoryPaper/SKILLMEM- COMPACT EXTERNAL SKILL MEMORY FOR LATENT MULTI-AGENT REASONING.pdf",
@@ -365,7 +364,6 @@
     "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Untitled.md",
     "Note/ICDENote",
-    "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
     "Note/MPCNote/DTCRS Dynamic Tree Construction for Recursive Summarization.md",
