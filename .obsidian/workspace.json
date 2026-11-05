@@ -64,8 +64,8 @@
               "state": {
                 "file": "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
                 "page": 2,
-                "left": -8,
-                "top": 20,
+                "left": -1,
+                "top": 312,
                 "zoom": 1.47
               },
               "icon": "lucide-file-text",
@@ -111,17 +111,17 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
-                "page": 13,
-                "left": -11,
-                "top": 734,
-                "zoom": 1.3541666666666667
+                "page": 3,
+                "left": -58,
+                "top": 537,
+                "zoom": 1.18
               },
               "icon": "lucide-file-text",
               "title": "Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "f2d6502cc6fc5e76",
@@ -335,12 +335,12 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "cbcf5267b11ce8aa",
+  "active": "83615b9771acb41c",
   "lastOpenFiles": [
+    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
-    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/AgentMemoryPaper/SKILLMEM- COMPACT EXTERNAL SKILL MEMORY FOR LATENT MULTI-AGENT REASONING.pdf",
     "Paper/AgentMemoryPaper/Unconfirmed 812706.crdownload",
     "Paper/AgentPaper/Locating and Closing Information Gaps in Multi-Agent Systems.pdf",
