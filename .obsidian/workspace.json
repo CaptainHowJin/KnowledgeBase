@@ -95,13 +95,29 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
-                "page": 1,
-                "left": 76,
-                "top": 133,
+                "page": 6,
+                "left": -4,
+                "top": 168,
                 "zoom": 1.75
               },
               "icon": "lucide-file-text",
               "title": "PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents"
+            }
+          },
+          {
+            "id": "109696412f0161b6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 796,
+                "zoom": 1.3541666666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents"
             }
           },
           {
@@ -121,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "f2d6502cc6fc5e76",
@@ -335,8 +351,9 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "b6e20c0c26c9db7e",
+  "active": "109696412f0161b6",
   "lastOpenFiles": [
+    "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
@@ -349,7 +366,6 @@
     "Paper/AgentPaper",
     "Note/ICDENote/Rabbit Note.md",
     "Paper/ICDE/Chat2DBChatting to the Database with Interactive Agent Assisted Language Models.pdf",
-    "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Untitled.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
