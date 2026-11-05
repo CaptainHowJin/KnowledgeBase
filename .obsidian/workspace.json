@@ -110,14 +110,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
-                "page": 1,
+                "file": "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
+                "page": 2,
                 "left": -11,
-                "top": 796,
-                "zoom": 1.3541666666666667
+                "top": 158,
+                "zoom": 1.3922113439816155
               },
               "icon": "lucide-file-text",
-              "title": "ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents"
+              "title": "MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents"
             }
           },
           {
@@ -353,6 +353,7 @@
   },
   "active": "109696412f0161b6",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
     "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
     "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
@@ -365,7 +366,6 @@
     "Paper/AgentPaper/Unconfirmed 333554.crdownload",
     "Paper/AgentPaper",
     "Note/ICDENote/Rabbit Note.md",
-    "Paper/ICDE/Chat2DBChatting to the Database with Interactive Agent Assisted Language Models.pdf",
     "Untitled.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
     "Note/MPCNote/TiMem Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.md",
