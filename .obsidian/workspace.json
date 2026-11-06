@@ -111,9 +111,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
-                "page": 2,
+                "page": 5,
                 "left": -11,
-                "top": 158,
+                "top": 299,
                 "zoom": 1.3922113439816155
               },
               "icon": "lucide-file-text",
@@ -127,17 +127,33 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
-                "page": 3,
+                "page": 9,
                 "left": -58,
-                "top": 537,
+                "top": 129,
                 "zoom": 1.18
               },
               "icon": "lucide-file-text",
               "title": "Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning"
             }
+          },
+          {
+            "id": "8f531ddaa58a696d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 788,
+                "zoom": 1.3541666666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
         "id": "f2d6502cc6fc5e76",
@@ -351,20 +367,20 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "109696412f0161b6",
+  "active": "8f531ddaa58a696d",
   "lastOpenFiles": [
+    "Paper/WWW/2026/GRank- Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework.pdf",
+    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
+    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
+    "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
     "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
     "Paper/MPCPaper/PersonaTree- Structured Lifecycle Memory for Person Understanding in LLM Agents.pdf",
     "Paper/MPCPaper/TiMem- Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents.pdf",
-    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
-    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/AgentMemoryPaper/SKILLMEM- COMPACT EXTERNAL SKILL MEMORY FOR LATENT MULTI-AGENT REASONING.pdf",
     "Paper/AgentMemoryPaper/Unconfirmed 812706.crdownload",
     "Paper/AgentPaper/Locating and Closing Information Gaps in Multi-Agent Systems.pdf",
-    "Paper/AgentPaper/Unconfirmed 333554.crdownload",
-    "Paper/AgentPaper",
     "Note/ICDENote/Rabbit Note.md",
     "Untitled.md",
     "Note/MPCNote/Context-Agent Dynamic Discourse Trees for Non-Linear Dialogue.md",
