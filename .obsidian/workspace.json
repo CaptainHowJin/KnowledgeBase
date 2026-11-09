@@ -15,7 +15,7 @@
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
                 "page": 4,
-                "left": -86,
+                "left": -4,
                 "top": 460,
                 "zoom": 1.52
               },
@@ -31,7 +31,7 @@
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
                 "page": 6,
-                "left": -5,
+                "left": 51,
                 "top": 7,
                 "zoom": 1.63
               },
@@ -142,9 +142,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
-                "page": 5,
-                "left": 72,
-                "top": 661,
+                "page": 10,
+                "left": 21,
+                "top": 694,
                 "zoom": 1.65
               },
               "icon": "lucide-file-text",
@@ -183,8 +183,7 @@
               "title": "PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -377,12 +376,12 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "cbcf5267b11ce8aa",
+  "active": "c39e477fd7b0c6c1",
   "lastOpenFiles": [
-    "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
-    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
-    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
+    "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
+    "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
     "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
     "Paper/MPCPaper/From RAG to Memory- Non-Parametric Continual Learning for Large Language Models.pdf",
