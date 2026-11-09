@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-                "page": 4,
+                "page": 9,
                 "left": -4,
-                "top": 460,
+                "top": 610,
                 "zoom": 1.52
               },
               "icon": "lucide-file-text",
@@ -175,7 +175,7 @@
               "state": {
                 "file": "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
                 "page": 1,
-                "left": -134,
+                "left": -25,
                 "top": 796,
                 "zoom": 1.3541666666666667
               },
@@ -183,7 +183,8 @@
               "title": "PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -376,13 +377,13 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "c39e477fd7b0c6c1",
+  "active": "cbcf5267b11ce8aa",
   "lastOpenFiles": [
-    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
+    "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
     "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-    "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
+    "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
+    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
     "Paper/MPCPaper/From RAG to Memory- Non-Parametric Continual Learning for Large Language Models.pdf",
     "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
