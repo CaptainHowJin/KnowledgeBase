@@ -142,9 +142,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
-                "page": 9,
+                "page": 10,
                 "left": -130,
-                "top": 765,
+                "top": 543,
                 "zoom": 1.37
               },
               "icon": "lucide-file-text",
@@ -158,9 +158,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
-                "page": 14,
-                "left": -90,
-                "top": 788,
+                "page": 10,
+                "left": -97,
+                "top": 624,
                 "zoom": 1.48
               },
               "icon": "lucide-file-text",
@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -377,14 +377,14 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "f684a73cf927eb01",
+  "active": "cbcf5267b11ce8aa",
   "lastOpenFiles": [
+    "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
     "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
     "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
     "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
-    "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
     "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
