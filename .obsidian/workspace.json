@@ -142,9 +142,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
-                "page": 7,
+                "page": 11,
                 "left": -289,
-                "top": 411,
+                "top": 66,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
@@ -160,7 +160,7 @@
                 "file": "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
                 "page": 7,
                 "left": -97,
-                "top": 203,
+                "top": 201,
                 "zoom": 1.48
               },
               "icon": "lucide-file-text",
@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -377,15 +377,15 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "cbcf5267b11ce8aa",
+  "active": "f684a73cf927eb01",
   "lastOpenFiles": [
+    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
     "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
     "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-    "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
     "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
     "Paper/MPCPaper/From RAG to Memory- Non-Parametric Continual Learning for Large Language Models.pdf",
