@@ -142,10 +142,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
-                "page": 10,
-                "left": -130,
+                "page": 12,
+                "left": -127,
                 "top": 543,
-                "zoom": 1.37
+                "zoom": 1.38
               },
               "icon": "lucide-file-text",
               "title": "Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning"
@@ -158,9 +158,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
-                "page": 10,
-                "left": -97,
-                "top": 624,
+                "page": 12,
+                "left": -42,
+                "top": 646,
                 "zoom": 1.48
               },
               "icon": "lucide-file-text",
