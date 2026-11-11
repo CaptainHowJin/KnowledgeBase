@@ -47,8 +47,8 @@
               "state": {
                 "file": "Paper/MPCPaper/MemForest- An Efficient Agent Memory System with Hierarchical Temporal Indexing.pdf",
                 "page": 5,
-                "left": 14,
-                "top": 725,
+                "left": -12,
+                "top": 729,
                 "zoom": 1.88
               },
               "icon": "lucide-file-text",
@@ -95,9 +95,9 @@
               "state": {
                 "file": "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
                 "page": 6,
-                "left": -15,
-                "top": 6,
-                "zoom": 1.0674019607843137
+                "left": -8,
+                "top": 10,
+                "zoom": 1.9019607843137256
               },
               "icon": "lucide-file-text",
               "title": "SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE"
@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,7 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 949.96875
+    "width": 268.765625
   },
   "right": {
     "id": "18e36fc53efe64b6",
@@ -377,14 +377,14 @@
       "native-pdf-handwriting:Create handwritten PDF": false
     }
   },
-  "active": "b6e20c0c26c9db7e",
+  "active": "1e5b3581a79614cd",
   "lastOpenFiles": [
+    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
     "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
     "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
     "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
     "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
-    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
