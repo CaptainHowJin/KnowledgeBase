@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
-                "page": 7,
+                "page": 6,
                 "left": -86,
-                "top": 745,
+                "top": 271,
                 "zoom": 1.52
               },
               "icon": "lucide-file-text",
@@ -30,9 +30,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
-                "page": 6,
-                "left": 51,
-                "top": 7,
+                "page": 4,
+                "left": -11,
+                "top": 676,
                 "zoom": 1.63
               },
               "icon": "lucide-file-text",
@@ -111,9 +111,9 @@
               "state": {
                 "file": "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
                 "page": 11,
-                "left": -11,
-                "top": 637,
-                "zoom": 1.415441176470588
+                "left": -8,
+                "top": 641,
+                "zoom": 1.897058823529412
               },
               "icon": "lucide-file-text",
               "title": "ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents"
@@ -128,7 +128,7 @@
                 "file": "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
                 "page": 9,
                 "left": -130,
-                "top": 268,
+                "top": 281,
                 "zoom": 1.3922113439816155
               },
               "icon": "lucide-file-text",
@@ -142,10 +142,10 @@
               "type": "pdf",
               "state": {
                 "file": "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
-                "page": 10,
-                "left": -309,
-                "top": 461,
-                "zoom": 0.97
+                "page": 7,
+                "left": -289,
+                "top": 411,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning"
@@ -379,17 +379,17 @@
   },
   "active": "cbcf5267b11ce8aa",
   "lastOpenFiles": [
+    "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
+    "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
+    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
+    "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
     "Paper/MPCPaper/Evaluating Long-Horizon Memory for Multi-Party Collaborative Dialogues.pdf",
     "Paper/MPCPaper/GroupMemBench- Benchmarking LLM Agent Memory in Multi-Party Conversations.pdf",
     "Paper/ICDE/Rabbit- Retrieval-Augmented Generation Enables  Better Automatic Database Knob Tuning.pdf",
-    "Paper/AgentMemoryPaper/ETAMem- Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.pdf",
-    "Paper/AgentMemoryPaper/MAGMA- A Multi-Graph based Agentic Memory Architecture for AI Agents.pdf",
     "Paper/ICDE/DataLab_A_Unified_Platform_for_LLM-Powered_Business_Intelligence.pdf",
     "Paper/WWW/2026/PI2I- A Personalized Item-Based Collaborative Filtering Retrieval Framework.pdf",
     "Paper/MPCPaper/From RAG to Memory- Non-Parametric Continual Learning for Large Language Models.pdf",
-    "Paper/MPCPaper/SPEAKERMEM-R1- SPEAKER-CENTERED DUAL-TRACK MEMORY FOR MULTI-PARTY DIALOGUE.pdf",
     "Paper/MPCPaper/HippoRAG- Neurobiologically Inspired Long-Term Memory for Large Language Models.pdf",
-    "Paper/AgentMemoryPaper/A-Mem- Agentic Memory for LLM Agents.pdf",
     "Note/MPCNote/Temporal Order Matters for Agentic Memory Segment Trees for Memory Construction and Retrieval.md",
     "Note/ICDENote/Rabbit Note.md",
     "Untitled.md",
